@@ -1,11 +1,16 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: FAMAZOA - F-droid AndroidtimeMachine AndroZoo Open-source Applications
+author: Bruno Góis Mateus
+email: brunomateus@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  The largest publicy available dataset of Open-source applications written in Kotlin
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: 
+github_username:  brunomateus
 
 sass:
     style: compressed
+
+# Information related to FAMAZOA
+
+number_of_apps: 269
+current_version: 2
