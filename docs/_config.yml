@@ -10,6 +10,11 @@ github_username:  brunomateus
 sass:
     style: compressed
 
+collections:
+    versions:
+        output: true
+
+
 # Information related to FAMAZOA
 
 number_of_apps: 269
