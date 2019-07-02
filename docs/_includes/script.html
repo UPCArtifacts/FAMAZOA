@@ -1,0 +1,11 @@
+<!--  Scripts-->                                                                               
+<script src="{{ "js/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "js/materialize.min.js" | relative_url }}"></script>
+<script src="{{ "js/init.js" | relative_url }}"></script>
+
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+    {% assign js_path = "js/" | append: js_file %}
+    <script src="{{ js_path | relative_url }}" type="text/javascript"></script>
+  {% endfor %}
+{% endif %}

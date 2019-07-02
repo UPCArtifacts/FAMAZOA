@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+  <div class="section no-pad-bot" id="index-banner">
+    <div class="container">
+      <br><br>
+      <h1 class="header center red-text text-lighten-1">{{ site.title }}</h1>
+      <div class="row center">
+        <h5 class="header col s12 light">{{ content }}</h5>
+      </div>
+        
+      <div class="row center">
+        <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light red lighten-1">Get Started</a>
+      </div>
+      <br><br>
+
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="section">
+
+      <!--   Icon Section   -->
+      <div class="row">
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center blue-text"><i class="material-icons">android</i></h2>
+            <h5 class="center">{{ site.number_of_apps }} Real applications</h5>
+
+            <p class="light">The version {{ site.current_version }} of out dataset has {{ site.number_of_apps }} real apps published on <a href="http://www.play.google.com" target="_blank">Google Play Store</a> or on <a href="http://www.f-droid.org">F-Droid Store</a>.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">code</i></h2>
+            <h5 class="center">Open-Source</h5>
+
+            <p class="light">As all applications that compose our dataset are open-source you can access directly their code to do whaterver you want, for instance, static analysis.</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
+            <h5 class="center">Easy to use</h5>
+
+            <p class="light">Get the list of repository, clone them and that's done. Enjoy!</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+      
+    </div>
+    <div style="background: #ddd">
+    <div class="container last-post">
+    <section>
+        <h5>Latest Post</h5>
+        <ul class="collection">
+        {% for post in site.posts %}
+        <li class="collection-item avatar">
+          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
+          <div class="date-post">{{ post.date | date: date_format }}</div>
+          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
+          <span class="new badge" style="float:none" data-badge-caption="{{ post.categories.first | capitalize }}"></span>
+          <p>
+             {{ post.content | truncatewords: 10 }}
+          </p>
+
+          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
+        </li>
+        {% endfor %}
+        </ul>  
+    </section>
+    </div>
+</div>
+
+  </div>
