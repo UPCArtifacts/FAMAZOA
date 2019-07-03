@@ -2,11 +2,12 @@
 layout: page
 title: Evolution
 permalink: /Evolution/
+custom_js: evolution.js
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
+<div class="section" id="apps_evolution">
 </div>
 <div class="divider"></div>
 
@@ -23,15 +24,15 @@ permalink: /Evolution/
         {% endif %}
     <div class="col12">
 
-           <ul>
-            <li>Number of applications: <em>{{ version.number_of_apps }}</em></li>
+           <ul class="version" id="{{ version.label }}">
+            <li>Number of applications: <em class="n_apps">{{ version.number_of_apps }}</em></li>
             {% if version.loc %}
                 <li>Number of Lines of Code: <em>{{ version.loc }}</em></li>
             {% endif %}
             {% if version.total_pure_kotlin %}
                 <li>Number of pure Kotlin apps:<em>{{ version.total_pure_kotlin }}</em></li>
             {% endif %}
-            <li>Release data: <em>{{ version.date | date: "%b %d,  %Y"}}</em></li>
+            <li>Release date: <em class="release_date">{{ version.date | date: "%b %d,  %Y"}}</em></li>
             <li><a class="right" href="{{ version.url }}"> More details</a></li>
            </ul>
          </div>
