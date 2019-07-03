@@ -13,6 +13,7 @@ sass:
 collections:
     versions:
         output: true
+        permalink: /:collection/:name
 
 
 # Information related to FAMAZOA
