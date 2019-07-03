@@ -3,6 +3,7 @@ layout: page
 title: Evolution
 permalink: /Evolution/
 custom_js: evolution.js
+custom_css: evolution.css
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

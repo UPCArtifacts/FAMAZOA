@@ -64,6 +64,11 @@ function drawBaseGraph(containerId, data){
              return y(d.total); 
         });
 
+    var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+
      svg.selectAll("line.y")
         .data(y.ticks())
         .enter().append("line")
@@ -93,6 +98,21 @@ function drawBaseGraph(containerId, data){
       .call(g => g.append("circle")
           .attr("fill", "steelblue")
           .attr("r", 3))
+           .on("mouseover", function(d) {
+              console.log("sdasdasdasd");
+            div.transition()
+                .duration(200)
+                .style("opacity", 1);
+            div.html(d.total + " apps")
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+            })
+        .on("mouseout", function(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+          })
+
       .call(g => g.append("text")
           .attr("dy", "-1.0em")
           .attr("dx", "0.5em")
