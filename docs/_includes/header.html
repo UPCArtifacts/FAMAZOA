@@ -1,5 +1,5 @@
 <nav class="blue darken-4" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">Logo</a>
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">FAMAZOA {{ site.current_version }}</a>
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
@@ -15,7 +15,7 @@
             {% endif %}              
           </ul>
 
-          <ul id="nav-mobile" class="side-nav">
+          <ul id="nav-mobile" class="sidenav">
             <li><a href="#">Home</a></li>
                             {% if page_paths %}
                 {% for path in page_paths %}
@@ -27,6 +27,6 @@
             {% endif %} 
           </ul>        
 
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+      <a href="#" class="sidenav-trigger" data-target="nav-mobile"><i class="material-icons">menu</i></a>
     </div>
 </nav>

@@ -13,9 +13,10 @@ sass:
 collections:
     versions:
         output: true
+        permalink: /:collection/:name
 
 
 # Information related to FAMAZOA
 
 number_of_apps: 269
-current_version: 2
+current_version: v2
