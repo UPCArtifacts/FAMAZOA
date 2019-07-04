@@ -1,0 +1,41 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="section">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+
+      <header class="post-header">
+
+
+      <div class="card">
+        <div class="card-content post-header">
+            <span class="card-title post-title">{{ page.title | escape }}</span>
+          <p class="post-meta">
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            Released in: {{ page.date | date: date_format }}
+          </time>
+          {% if page.author %}
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+          {% endif %}</p>
+
+        </div>
+        <div class="card-action">
+            {% assign download_url = "/assets" | append: page.url | append: ".txt" %}
+            <a href="{{ download_url }}" target="_blank"><i class="material-icons">get_app</i> Download</a>
+        </div>
+      </div>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
+    </article>
+    </div>
+</div>
+<!--<script>$('.carousel.carousel-slider').carousel({fullWidth: true});</script>-->

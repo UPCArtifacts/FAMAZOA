@@ -61,7 +61,11 @@ with open(list_of_links) as f:
         sys.stdout.flush()
 
         link = line.strip()
-        http_status  = urllib.request.urlopen(link).getcode()
+        try:
+            http_status  = urllib.request.urlopen(link).getcode()
+        except urllib.error.HTTPError as err:
+            http_status = err.code
+            print(link, file=sys.stderr)
         output.append((link, http_status))
 
 print_output(output, output_type)
