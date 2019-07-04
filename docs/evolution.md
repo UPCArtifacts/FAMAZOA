@@ -34,7 +34,7 @@ custom_css: evolution.css
                 <li>Number of pure Kotlin apps:<em>{{ version.total_pure_kotlin }}</em></li>
             {% endif %}
             <li>Release date: <em class="release_date">{{ version.date | date: "%b %d,  %Y"}}</em></li>
-            <li><a class="right" href="{{ version.url }}"> More details</a></li>
+            <li><a class="right" href="{{ version.url | relative_url }}"> More details</a></li>
            </ul>
          </div>
 
