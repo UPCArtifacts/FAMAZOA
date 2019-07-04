@@ -8,8 +8,10 @@ custom_css: evolution.css
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section" id="apps_evolution">
-</div>
+<div class="section row">
+    <div class="col s12" id="apps_evolution">
+    </div>
+</div>    
 <div class="divider"></div>
 
 {% assign current =  site.versions | last %}
@@ -23,7 +25,7 @@ custom_css: evolution.css
 <h5>{{ version.label }}</h5>
 <div class="row">   
         {% endif %}
-    <div class="col12">
+    <div class="col s12">
 
            <ul class="version" id="{{ version.label }}">
             <li>Number of applications: <em class="n_apps">{{ version.number_of_apps }}</em></li>
@@ -37,12 +39,6 @@ custom_css: evolution.css
             <li><a class="right" href="{{ version.url | relative_url }}"> More details</a></li>
            </ul>
          </div>
-
-    {% if current.label == version.label %}
-        <div class="col6">
-        </div>
-    {% endif %}
-
 </div>
 
 <div class="divider"></div>

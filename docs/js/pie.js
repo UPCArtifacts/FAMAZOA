@@ -20,8 +20,8 @@ function get_data(){
 
     return {'languages' : data };
 }
-    const width = 350;
-    const height = 350;
+    const width =  d3.select("#pie").node().getBoundingClientRect().width;
+    const height = width;
     const radius = Math.min(width, height) / 2;
 
     const svg = d3.select("#pie")

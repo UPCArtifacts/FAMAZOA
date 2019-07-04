@@ -99,7 +99,6 @@ function drawBaseGraph(containerId, data){
           .attr("fill", "steelblue")
           .attr("r", 3))
            .on("mouseover", function(d) {
-              console.log("sdasdasdasd");
             div.transition()
                 .duration(200)
                 .style("opacity", 1);

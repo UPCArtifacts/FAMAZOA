@@ -631,7 +631,7 @@ apps:
       </time>
       </p>
       <div class="row">
-        <div class="col s6">
+        <div class="col s12 l6">
             <table>
                 <thead>
                     <tr>
@@ -656,7 +656,7 @@ apps:
           </table>
           <p class="detail">Provided by <a href="https://github.com/AlDanial/cloc" target="_blank">CLOC</a></p>
         </div>
-         <div class="col s6" id="pie">
+         <div class="col s12 l6" id="pie">
         </div>
 
       </div>
