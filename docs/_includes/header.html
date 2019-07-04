@@ -28,6 +28,8 @@
                     {% endif %}
                 {% endfor %}
             {% endif %} 
+            <li><a href="{{ current.url | relative_url }}">{{ current.title | escape }}</a></li>
+
           </ul>        
 
       <a href="#" class="sidenav-trigger" data-target="nav-mobile"><i class="material-icons">menu</i></a>

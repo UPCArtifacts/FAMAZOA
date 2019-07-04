@@ -593,7 +593,8 @@ apps:
     </div>
 
     <div class="card-action">
-        {% assign download_url = "/assets" | append: page.label | append: ".txt" %}
+        {% assign version = site.versions | where: "v_id", page.v_id | first %}
+        {% assign download_url = "/assets" | append: version.url | append: ".txt" %}
         <a href="{{ download_url }}" target="_blank"><i class="material-icons">get_app</i> Download</a>
     </div>
   </div>
@@ -614,7 +615,7 @@ apps:
             {% assign status_icon = "link_off" %}
             {% assign color_icon = "red-text text-lighten-1" %}
         {% endif %}
-        <li class="collection-item"><div>{{ app.repo }}</a><a href="#!" class="secondary-content"><i class="material-icons {{ color_icon }}">{{ status_icon }}</i></a></div></li>
+        <li class="collection-item"><div>{{ app.repo }}<a href="{{ app.repo }}" class="secondary-content"><i class="material-icons {{ color_icon }}">{{ status_icon }}</i></a></div></li>
         {% endfor %}
         </ul>
       </div>

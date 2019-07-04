@@ -1,7 +1,7 @@
 (function($){
   $(function(){
 
-    $('.button-collapse').sidenav();
+    $('.sidenav').sidenav();
     $('.carousel').carousel();
 
   }); // end of document ready
