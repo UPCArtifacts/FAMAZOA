@@ -23,8 +23,13 @@ parser.add_argument("--output",
 
 args = parser.parse_args()
 
-dataset1 = json.load(args.dataset_1)['apps']
-dataset2 = json.load(args.dataset_2)['apps']
+dataset1 = json.load(args.dataset_1)
+if 'apps' in dataset1:
+    dataset1 = dataset1['apps']
+
+dataset2 = json.load(args.dataset_2)
+if 'apps' in dataset2:
+    dataset2 = dataset2['apps']
 
 
 
