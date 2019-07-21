@@ -143,9 +143,9 @@ python -m helpers.filter_apps_by_date --start_date 2009-01-01 --details_dir goog
 ```
 generate_to_match.py [-h] [--output OUTPUT] all_repos repos_at_play
 ```
--**--output**: Output file. Defautl: to_match.csv
--**all\_repos**: csv from step 2.1
--**repos\_at\_play**: csv from step 2.4
+- **--output**: Output file. Defautl: to_match.csv
+- **all\_repos**: csv from step 2.1
+- **repos\_at\_play**: csv from step 2.4
 
 Generete the file need to match repositories with applications
 
@@ -166,3 +166,16 @@ python  -m helpers.get_matched_metadata --package_list matched_repos.csv  --deta
 - **--package_list**: the output from step 2.7
 - **--details_dir**: Folder where metadata from google play is stored.
 - **--out**: a file to store the results
+
+### 3. Merge the applications from both datasets
+
+```
+merge_datasets.py --dataset_1 FDROID_APPS --dataset_2
+                         TIMEMACHINE_APPS --output OUTPUT
+```
+
+- **--dataset_1**: The json file applications from F-droid
+- **--dataset_2**: The json file applications from AndroidTimeMachine
+- **--output**: Output file to store the result
+
+### 4. Generate a json containing the new apps and apps from previous version of FAMAZOA
