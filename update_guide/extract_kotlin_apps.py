@@ -120,13 +120,15 @@ def parse_json(input_file, g):
 
 
 parser = argparse.ArgumentParser()
-parser.add_argument("apps_list",
+parser.add_argument("--apps_list",
         type=argparse.FileType('r'),
-        help="The json file containing the repositories to extract language")
+        help="The json file containing the repositories to extract language",
+        required=True)
 
-parser.add_argument("output",
+parser.add_argument("--output",
         type=argparse.FileType('w'),
-        help="Output file to store the result")
+        help="Output file to store the result",
+        required=True)
 
 args = parser.parse_args()
 input_file = args.apps_list
