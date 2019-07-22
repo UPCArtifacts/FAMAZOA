@@ -25,9 +25,8 @@ def get_language_from_github(repo_url, g):
             languages[l] = (languages[l]/total_of_bytes)*100
         if languages.get('Kotlin', None):
             try:
-                releases = repo.get_releases()
                 commits = repo.get_commits()
-                return {'commits': commits.totalCount, 'releases': releases.totalCount, 'languages': languages}
+                return {'commits': commits.totalCount, 'languages': languages}
             except:
                 logging.warning("Impossible to get commits or releases from [{}]({}) - {}".format(repo_name, repo_url.geturl(), e))
                 return {'languages': languages}
