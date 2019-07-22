@@ -174,8 +174,19 @@ merge_datasets.py --dataset_1 FDROID_APPS --dataset_2
                          TIMEMACHINE_APPS --output OUTPUT
 ```
 
-- **--dataset_1**: The json file applications from F-droid
-- **--dataset_2**: The json file applications from AndroidTimeMachine
+- **--dataset1**: The json file applications from F-droid
+- **--dataset2**: The json file applications from AndroidTimeMachine
 - **--output**: Output file to store the result
 
 ### 4. Generate a json containing the new apps and apps from previous version of FAMAZOA
+
+Use the same command from the last step. Take a look in possible conflicts. These are shown at the output of the merge command.
+
+```
+merge_datasets.py --dataset1 FAMAZOA_OLD --dataset2
+                         FAMAZOA_NEW --output OUTPUT
+```
+
+- **--dataset1**: The json file applications from the previous version of FAMAZOA
+- **--dataset2**: The json file applications resulting of the last step
+- **--output**: Output file to store the result
