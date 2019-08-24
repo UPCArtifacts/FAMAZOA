@@ -13,23 +13,43 @@ import urllib.request
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s | [%(levelname)s] : %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
-def generate_config_file(number_of_apps, version_label, version_id):
+def generate_config_file(number_of_apps, version_id):
     with open('templates/_config.yml', 'r') as config_file:
         config_content = config_file.readlines()
 
     with open('_config.yml', 'w') as new_config:
         new_config.write("".join(config_content))
         new_config.write('number_of_apps: {} \n'.format(number_of_apps))
-        new_config.write('current_version: {} \n'.format(version_label))
+        new_config.write('current_version: v{} \n'.format(version_id))
+
+def generate_version_file(number_of_apps, version_label, version_id, apps):
+    with open('templates/version_header.md', 'r') as header_file:
+        header_content = header_file.readlines()
+
+    with open('templates/version_footer.md', 'r') as bottom_file:
+        bottom_content = bottom_file.readlines()
+
+    with open('_versions/v{}.md'.format(version_id), 'w') as new_version_file:
+        new_version_file.write("".join(header_content))
+        new_version_file.write("v_id: {}\n".format(version_id))
+        new_version_file.write("title: FAMAZOA v{}\n".format(version_id))
+        new_version_file.write("label: v{}\n".format(version_id))
+        new_version_file.write("date: {}\n".format(version_date))
+        new_version_file.write("number_of_apps: {}\n".format(number_of_apps))
+        new_version_file.write("apps: \n")
+        with open('assets/versions/v{}.txt'.format(str(version_id).replace('.', '-')), 'w') as download_file:
+            for app in apps:
+                new_version_file.write("- repo: {}\n".format(app['source_repo']))
+                download_file.write("{}\n".format(app['source_repo']))
+        new_version_file.write("".join(bottom_content))
 
 def parse_json(input_file):
     result = []
     json_content = json.load(input_file)['apps']
     number_of_apps = len(json_content)
 
-    generate_config_file(number_of_apps, version_label, version_id)
-
-#    for i, app in enumerate(json_content):
+    generate_config_file(number_of_apps, version_id)
+    generate_version_file(number_of_apps, version_label, version_id, json_content)
 
 
 parser = argparse.ArgumentParser()

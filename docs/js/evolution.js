@@ -7,7 +7,7 @@ function getData(){
 
         data.push({
             'label': d3.select(this).attr('id'),
-            'total': d3.select(this).select('li em.n_apps').html(),
+            'total': parseInt(d3.select(this).select('li em.n_apps').html()),
             'date': d3.select(this).select('li em.release_date').html(),
         });
     });
@@ -34,7 +34,7 @@ function drawBaseGraph(containerId, data){
     
 
      var y = d3.scaleLinear()
-       .domain([0, data[data.length - 1].total])
+       .domain([height, data[data.length - 1].total + 10])
        .range([height - margin.top-margin.bottom,margin.bottom + margin.top]);
 
      var xAxis = g => g
