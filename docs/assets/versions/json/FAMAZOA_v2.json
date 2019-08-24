@@ -1,0 +1,1618 @@
+{ "apps":
+    [
+        {
+            "name": "Reader for Pepper&Carrot",
+            "summary": "A multi-language reader for CC-BY licensed Pepper & Carrot Webcomic",
+            "source_repo": "https://framagit.org/peppercarrot/e-reader",
+            "package": "nightlock.peppercarrot"
+        },
+        {
+            "name": "DecSync CC",
+            "summary": "Sync contacts and calendars without a server using DecSync",
+            "source_repo": "https://github.com/39aldo39/DecSyncCC",
+            "package": "org.decsync.cc"
+        },
+        {
+            "name": "spaRSS DecSync",
+            "summary": "Sync RSS without a server using DecSync",
+            "source_repo": "https://github.com/39aldo39/spaRSS-DecSync",
+            "package": "org.decsync.sparss.floss"
+        },
+        {
+            "name": "Frost",
+            "summary": "Facebook Web Wrapper",
+            "source_repo": "https://github.com/AllanWang/Frost-for-Facebook",
+            "package": "com.pitchedapps.frost"
+        },
+        {
+            "name": "Material Notes",
+            "summary": "Quick and beautiful note-taking",
+            "source_repo": "https://github.com/BijoySingh/Material-Notes-Android-App",
+            "package": "com.bijoysingh.quicknote"
+        },
+        {
+            "name": "UserLAnd",
+            "summary": "Easiest way to run GNU/Linux Distros on Android - no root required",
+            "source_repo": "https://github.com/CypherpunkArmory/UserLAnd",
+            "package": "tech.ula"
+        },
+        {
+            "name": "EtchDroid",
+            "summary": "An application that helps you write images to USB drives, no root required",
+            "source_repo": "https://github.com/Depau/EtchDroid",
+            "package": "eu.depau.etchdroid"
+        },
+        {
+            "name": "34C3 Schedule",
+            "summary": "Schedule (aka FahrPlan) of the 34C3",
+            "source_repo": "https://github.com/EventFahrplan/EventFahrplan",
+            "package": "info.metadude.android.congress.schedule"
+        },
+        {
+            "name": "NHBooks",
+            "summary": "NHBooks is a Material Design NHentai client",
+            "source_repo": "https://github.com/FengMoeTeam/NHentai-android",
+            "package": "moe.feng.nhentai"
+        },
+        {
+            "name": "Flym",
+            "summary": "Light and modern feed reader",
+            "source_repo": "https://github.com/FredJul/Flym",
+            "package": "net.frju.flym"
+        },
+        {
+            "name": "Simple ToDo",
+            "summary": "To-Do / Task list with beautiful minimalistic design and reminders",
+            "source_repo": "https://github.com/Jizzu/SimpleToDo",
+            "package": "apps.jizzu.simpletodo"
+        },
+        {
+            "name": "LISTEN.moe",
+            "summary": "Listen to j-pop and anime music radio 24/7 ad-free",
+            "source_repo": "https://github.com/LISTEN-moe/android-app",
+            "package": "me.echeung.moemoekyun.fdroid"
+        },
+        {
+            "name": "Lawnchair",
+            "summary": "Pixel Launcher features plus customizability",
+            "source_repo": "https://github.com/LawnchairLauncher/Lawnchair",
+            "package": "ch.deletescape.lawnchair.plah"
+        },
+        {
+            "name": "miniVector",
+            "summary": "Open team collaboration",
+            "source_repo": "https://github.com/LiMium/mini-vector-android",
+            "package": "com.lavadip.miniVector"
+        },
+        {
+            "name": "Home Assistant",
+            "summary": "Control your HomeAssistant instance",
+            "source_repo": "https://github.com/Maxr1998/home-assistant-Android",
+            "package": "io.homeassistant.android"
+        },
+        {
+            "name": "BackgroundRestrictor",
+            "summary": "Manage RUN_IN_BACKGROUND permissions",
+            "source_repo": "https://github.com/MrBIMC/RunInBackgroundPermissionSetter",
+            "package": "com.pavelsikun.runinbackgroundpermissionsetter"
+        },
+        {
+            "name": "SELinuxModeChanger",
+            "summary": "Set SELinux mode on boot",
+            "source_repo": "https://github.com/MrBIMC/SELinuxModeChanger",
+            "package": "com.mrbimc.selinux"
+        },
+        {
+            "name": "EH17 Schedule",
+            "summary": "Schedule (aka Fahrplan) of the EH17",
+            "source_repo": "https://github.com/MyIgel/EH17Fahrplan",
+            "package": "name.myigel.fahrplan.eh17"
+        },
+        {
+            "name": "VPN Hotspot",
+            "summary": "Share your VPN connection over hotspot or repeater",
+            "source_repo": "https://github.com/Mygod/VPNHotspot",
+            "package": "be.mygod.vpnhotspot"
+        },
+        {
+            "name": "NyaaPantsu",
+            "summary": "An app interface interacting with NyaaPantsu",
+            "source_repo": "https://github.com/NyaaPantsu/NyaaPantsu-android-app",
+            "package": "cat.pantsu.nyaapantsu"
+        },
+        {
+            "name": "Voice",
+            "summary": "Simple audiobook player",
+            "source_repo": "https://github.com/PaulWoitaschek/Voice",
+            "package": "de.ph1b.audiobook"
+        },
+        {
+            "name": "Rocket.Chat",
+            "summary": "Team Communication Tool",
+            "source_repo": "https://github.com/RocketChat/Rocket.Chat.Android",
+            "package": "chat.rocket.android"
+        },
+        {
+            "name": "App Launcher",
+            "summary": "A simple holder for your favourite app launchers.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-App-Launcher",
+            "package": "com.simplemobiletools.applauncher"
+        },
+        {
+            "name": "Clock",
+            "summary": "A combination of a clock, alarm, stopwatch and timer.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-CLock",
+            "package": "com.simplemobiletools.clock"
+        },
+        {
+            "name": "Simple Contacts Pro",
+            "summary": "A contacts app for managing your contacts without ads.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Contacts",
+            "package": "com.simplemobiletools.contacts.pro"
+        },
+        {
+            "name": "Draw",
+            "summary": "A canvas you can draw on with different colors.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Draw",
+            "package": "com.simplemobiletools.draw"
+        },
+        {
+            "name": "Simple File Manager Pro",
+            "summary": "A simple file manager for browsing and editing files and directories.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-File-Manager",
+            "package": "com.simplemobiletools.filemanager.pro"
+        },
+        {
+            "name": "Thank You",
+            "summary": "A paid app for people who want to support us, not doing much yet.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Thank-You",
+            "package": "com.simplemobiletools.thankyou"
+        },
+        {
+            "name": "DarkCroc Theme",
+            "summary": "A dark Substratum theme targeting Android 9+",
+            "source_repo": "https://github.com/SpiritCroc/DarkCroc-Android-theme",
+            "package": "de.spiritcroc.darkcroc.substratum"
+        },
+        {
+            "name": "Default Dark Theme",
+            "summary": "A dark Substratum theme targeting Android 7 & 8",
+            "source_repo": "https://github.com/SpiritCroc/DefaultDarkTheme-oms",
+            "package": "de.spiritcroc.defaultdarktheme"
+        },
+        {
+            "name": "USB Mountr",
+            "summary": "Use your device as a USB flash drive",
+            "source_repo": "https://github.com/Streetwalrus/android_usb_msd",
+            "package": "streetwalrus.usbmountr"
+        },
+        {
+            "name": "Twidere",
+            "summary": "Microblogging client",
+            "source_repo": "https://github.com/TwidereProject/Twidere-Android",
+            "package": "org.mariotaku.twidere"
+        },
+        {
+            "name": "Stratum 0 Widget",
+            "summary": "Status Widget for Stratum 0, Hackerspace Braunschweig",
+            "source_repo": "https://github.com/Valodim/Stratum0Widget",
+            "package": "horse.amazin.my.stratum0.statuswidget"
+        },
+        {
+            "name": "Ad-Free",
+            "summary": "AdBlocker for Spotify",
+            "source_repo": "https://github.com/abertschi/ad-free",
+            "package": "ch.abertschi.adfree"
+        },
+        {
+            "name": "MyMusicQoE",
+            "summary": "A fork of ultrasonic with QoE evaluation features purposes",
+            "source_repo": "https://github.com/albertolalanda/new-ultrasonic-fork-for-MyMusicQoE",
+            "package": "pt.ipleiria.mymusicqoe"
+        },
+        {
+            "name": "Reader for Selfoss",
+            "summary": "RSS reader for Selfoss",
+            "source_repo": "https://github.com/aminecmi/ReaderforSelfoss",
+            "package": "apps.amine.bou.readerforselfoss"
+        },
+        {
+            "name": "Bimba",
+            "summary": "First Free Software Pozna\u0144 Wandering Guide",
+            "source_repo": "https://github.com/apiote/Bimba",
+            "package": "ml.adamsprogs.bimba"
+        },
+        {
+            "name": "GPSTest",
+            "summary": "An app for testing GPS and GNSS capabilities of a device",
+            "source_repo": "https://github.com/barbeau/gpstest",
+            "package": "com.android.gpstest.osmdroid"
+        },
+        {
+            "name": "Blokada v3 (ad blocker)",
+            "summary": "The ad blocker - battery efficient, fast, powerful and simple to use",
+            "source_repo": "https://github.com/blokadaorg/blokada",
+            "package": "org.blokada.alarm"
+        },
+        {
+            "name": "SoundWaves",
+            "summary": "Manage and listen to podcasts",
+            "source_repo": "https://github.com/bottiger/SoundWaves",
+            "package": "org.bottiger.podcast"
+        },
+        {
+            "name": "Poet Assistant",
+            "summary": "Dictionary and TTS tools for editing poems",
+            "source_repo": "https://github.com/caarmen/poet-assistant",
+            "package": "ca.rmen.android.poetassistant"
+        },
+        {
+            "name": "Chicago Commutes",
+            "summary": "Transit tracker making it easier to travel in Chicago, using the CTA and Divvy.",
+            "source_repo": "https://github.com/carlphilipp/chicago-commutes",
+            "package": "fr.cph.chicago.foss"
+        },
+        {
+            "name": "Night Light",
+            "summary": "An app to adjust blue light intensity, powered by KCAL",
+            "source_repo": "https://github.com/corphish/NightLight",
+            "package": "com.corphish.nightlight.generic"
+        },
+        {
+            "name": "Event Sync for Facebook",
+            "summary": "Sync your Facebook Events into your calendar",
+            "source_repo": "https://github.com/danvratil/FBEventSync",
+            "package": "cz.dvratil.fbeventsync"
+        },
+        {
+            "name": "Logcat Reader",
+            "summary": "A simple app to view logs",
+            "source_repo": "https://github.com/darshanparajuli/LogcatReader",
+            "package": "com.dp.logcatapp"
+        },
+        {
+            "name": "Muzei - Bing Image of the Day",
+            "summary": "A Muzei art source that retrieves the Bing image of the day",
+            "source_repo": "https://github.com/devmil/muzei-bingimageoftheday",
+            "package": "de.devmil.muzei.bingimageofthedayartsource"
+        },
+        {
+            "name": "Screen Stream",
+            "summary": "Screen streaming over HTTP",
+            "source_repo": "https://github.com/dkrivoruchko/ScreenStream",
+            "package": "info.dvkr.screenstream"
+        },
+        {
+            "name": "DuckDuckGo Privacy Browser",
+            "summary": "Privacy, simplified",
+            "source_repo": "https://github.com/duckduckgo/Android",
+            "package": "com.duckduckgo.mobile.android"
+        },
+        {
+            "name": "Firefly III Mobile",
+            "summary": "Mobile wrapper for Firefly III",
+            "source_repo": "https://github.com/emansih/FireflyMobile",
+            "package": "xyz.hisname.fireflyiii"
+        },
+        {
+            "name": "Tremotesf",
+            "summary": "Remote-control Transmission BitTorrent client",
+            "source_repo": "https://github.com/equeim/tremotesf-android",
+            "package": "org.equeim.tremotesf"
+        },
+        {
+            "name": "Eventyay Attendee",
+            "summary": "Events app to checkout nearby events",
+            "source_repo": "https://github.com/fossasia/open-event-android",
+            "package": "com.eventyay.attendee"
+        },
+        {
+            "name": "Transportr",
+            "summary": "Public Transport Companion",
+            "source_repo": "https://github.com/grote/Transportr",
+            "package": "de.grobox.liberario"
+        },
+        {
+            "name": "FreeOTP+",
+            "summary": "Two-factor authentication with import/export functionality",
+            "source_repo": "https://github.com/helloworld1/FreeOTPPlus",
+            "package": "org.liberty.android.freeotpplus"
+        },
+        {
+            "name": "Episodie",
+            "summary": "Discover and track TV show time",
+            "source_repo": "https://github.com/hypeapps/episodie",
+            "package": "pl.hypeapp.episodie"
+        },
+        {
+            "name": "OpenFool",
+            "summary": "Russian national Fool (Durak) card game.",
+            "source_repo": "https://github.com/hyst329/OpenFool",
+            "package": "ru.hyst329.openfool"
+        },
+        {
+            "name": "Loop Habit Tracker",
+            "summary": "Track your habits and long-term goals",
+            "source_repo": "https://github.com/iSoron/uhabits",
+            "package": "org.isoron.uhabits"
+        },
+        {
+            "name": "Soft Sound",
+            "summary": "Play relaxing sounds",
+            "source_repo": "https://github.com/ianmcxa/Soft-Sound",
+            "package": "org.mcxa.softsound"
+        },
+        {
+            "name": "Knock on Ports",
+            "summary": "Port knocking client",
+            "source_repo": "https://github.com/impalex/knockonports",
+            "package": "me.impa.knockonports"
+        },
+        {
+            "name": "Tachiyomi",
+            "summary": "Manga reader",
+            "source_repo": "https://github.com/inorichi/tachiyomi",
+            "package": "eu.kanade.tachiyomi"
+        },
+        {
+            "name": "Bucket - Overlay Manager",
+            "summary": "Bucket is UNOFFICIAL app for Substratum Theme Engine",
+            "source_repo": "https://github.com/jereksel/Bucket",
+            "package": "com.jereksel.libresubstratum"
+        },
+        {
+            "name": "baresip",
+            "summary": "baresip SIP client",
+            "source_repo": "https://github.com/juha-h/baresip-studio",
+            "package": "com.tutpro.baresip"
+        },
+        {
+            "name": "K-9 Mail",
+            "summary": "Full-featured email client",
+            "source_repo": "https://github.com/k9mail/k-9",
+            "package": "com.fsck.k9"
+        },
+        {
+            "name": "Torchlight",
+            "summary": "Use the flash of your camera as a light",
+            "source_repo": "https://github.com/kaeptmblaubaer1000/android-torchlight",
+            "package": "com.fake.android.torchlight"
+        },
+        {
+            "name": "NC Bookmark Viewer",
+            "summary": "This is a lightweight viewer for Nextcloud bookmarks",
+            "source_repo": "https://github.com/lenchan139/NCBookmark",
+            "package": "org.lenchan139.ncbookmark"
+        },
+        {
+            "name": "IPFSDroid",
+            "summary": "IPFS Tool",
+            "source_repo": "https://github.com/ligi/IPFSDroid",
+            "package": "org.ligi.ipfsdroid"
+        },
+        {
+            "name": "Material Tea Timer",
+            "summary": "Time your tea with style",
+            "source_repo": "https://github.com/ligi/MaterialTeaTimer",
+            "package": "org.ligi.materialteatimer"
+        },
+        {
+            "name": "PassAndroid",
+            "summary": "View Passbook files",
+            "source_repo": "https://github.com/ligi/PassAndroid",
+            "package": "org.ligi.passandroid"
+        },
+        {
+            "name": "Survival Manual",
+            "summary": "Learn how to survive",
+            "source_repo": "https://github.com/ligi/SurvivalManual",
+            "package": "org.ligi.survivalmanual"
+        },
+        {
+            "name": "Gobandroid TV",
+            "summary": "Ancient Go game",
+            "source_repo": "https://github.com/ligi/gobandroid",
+            "package": "org.ligi.gobandroid"
+        },
+        {
+            "name": "MGit",
+            "summary": "View and interact with git repositories",
+            "source_repo": "https://github.com/maks/MGit",
+            "package": "com.manichord.mgit"
+        },
+        {
+            "name": "VoIP.ms SMS",
+            "summary": "Send and read SMS via voip.ms",
+            "source_repo": "https://github.com/michaelkourlas/voipms-sms-client",
+            "package": "net.kourlas.voipms"
+        },
+        {
+            "name": "And Bible",
+            "summary": "Offline Bible reader",
+            "source_repo": "https://github.com/mjdenham/and-bible",
+            "package": "net.bible.android.activity"
+        },
+        {
+            "name": "Aruba Networks Login",
+            "summary": "App to automatically login into arubanetworks.com hotspots",
+            "source_repo": "https://github.com/mkg20001/aruba-networks-login",
+            "package": "io.mkg20001.arubanetworkslogin"
+        },
+        {
+            "name": "twitlatte",
+            "summary": "Twitter, Mastodon and Pleroma client",
+            "source_repo": "https://github.com/moko256/twitlatte",
+            "package": "com.github.moko256.twitlatte"
+        },
+        {
+            "name": "Firefox Klar",
+            "summary": "Get The Privacy Browser. Fast & always private from Firefox, a browser you trust",
+            "source_repo": "https://github.com/mozilla-mobile/focus-android",
+            "package": "org.mozilla.klar"
+        },
+        {
+            "name": "Simpletask",
+            "summary": "Todo list manager",
+            "source_repo": "https://github.com/mpcjanssen/simpletask-android",
+            "package": "nl.mpcjanssen.simpletask"
+        },
+        {
+            "name": "OGS",
+            "summary": "Play Go online",
+            "source_repo": "https://github.com/nathanj/ogsdroid",
+            "package": "com.ogsdroid"
+        },
+        {
+            "name": "Nextcloud Talk",
+            "summary": "Have private video calls and chat using your own server.",
+            "source_repo": "https://github.com/nextcloud/talk-android",
+            "package": "com.nextcloud.talk2"
+        },
+        {
+            "name": "Orgzly",
+            "summary": "Outliner for notes and tasks in plain-text",
+            "source_repo": "https://github.com/orgzly/orgzly-android",
+            "package": "com.orgzly"
+        },
+        {
+            "name": "OsmAnd~",
+            "summary": "Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps",
+            "source_repo": "https://github.com/osmandapp/Osmand",
+            "package": "net.osmand.plus"
+        },
+        {
+            "name": "Tinc",
+            "summary": "A mesh VPN daemon",
+            "source_repo": "https://github.com/pacien/tincapp",
+            "package": "org.pacien.tincapp"
+        },
+        {
+            "name": "Unit Converter Ultimate",
+            "summary": "Convert between units with ease",
+            "source_repo": "https://github.com/physphil/UnitConverterUltimate",
+            "package": "com.physphil.android.unitconverterultimate"
+        },
+        {
+            "name": "Travel Mate",
+            "summary": "A complete travel guide",
+            "source_repo": "https://github.com/project-travel-mate/Travel-Mate",
+            "package": "io.github.project"
+        },
+        {
+            "name": "QKSMS",
+            "summary": "Messaging app",
+            "source_repo": "https://github.com/qklabs/qksms",
+            "package": "com.moez.QKSMS"
+        },
+        {
+            "name": "Calendar Notifications",
+            "summary": "Advanced calendar notifications",
+            "source_repo": "https://github.com/quarck/CalendarNotification",
+            "package": "com.github.quarck.calnotify"
+        },
+        {
+            "name": "Red Moon",
+            "summary": "Screen filter for night time phone use",
+            "source_repo": "https://github.com/raatmarien/red-moon",
+            "package": "com.jmstudios.redmoon"
+        },
+        {
+            "name": "Muzei",
+            "summary": "Live wallpaper of famous art",
+            "source_repo": "https://github.com/romannurik/muzei",
+            "package": "net.nurik.roman.muzei"
+        },
+        {
+            "name": "Quick Draw Everywhere",
+            "summary": "Draw and take notes everywhere on your device",
+            "source_repo": "https://github.com/rosenpin/QuickDrawEverywhere",
+            "package": "com.tomer.draw"
+        },
+        {
+            "name": "Screenshot sharer",
+            "summary": "Share screenshots quickly",
+            "source_repo": "https://github.com/rosenpin/Screenshot-Sharer",
+            "package": "com.tomer.screenshotsharer"
+        },
+        {
+            "name": "Planning Poker",
+            "summary": "Planning Poker for phone, tablet and wear devices",
+            "source_repo": "https://github.com/saschpe/PlanningPoker",
+            "package": "saschpe.poker"
+        },
+        {
+            "name": "Dziennik",
+            "summary": "Client for Synergia Librus",
+            "source_repo": "https://github.com/shymmq/librus-client-kotlin",
+            "package": "com.wabadaba.dziennik"
+        },
+        {
+            "name": "Syncthing Lite",
+            "summary": "File synchronization",
+            "source_repo": "https://github.com/syncthing/syncthing-lite",
+            "package": "net.syncthing.lite"
+        },
+        {
+            "name": "Open Link With",
+            "summary": "Open links in native apps when you're stuck in the browser! \ud83d\ude80",
+            "source_repo": "https://github.com/tasomaniac/OpenLinkWith",
+            "package": "com.tasomaniac.openwith.floss"
+        },
+        {
+            "name": "FastHub-Libre",
+            "summary": "A GitHub client app built from ground up",
+            "source_repo": "https://github.com/thermatk/FastHub-Libre",
+            "package": "com.fastaccess.github.libre"
+        },
+        {
+            "name": "YouTube Stream",
+            "summary": "Get YouTube Stream and open it with local application",
+            "source_repo": "https://github.com/thiolliere/YouTubeStream",
+            "package": "org.thiolliere.youtubestream"
+        },
+        {
+            "name": "Tusky",
+            "summary": "Material Design Mastodon Client",
+            "source_repo": "https://github.com/tuskyapp/Tusky",
+            "package": "com.keylesspalace.tusky"
+        },
+        {
+            "name": "UltraSonic",
+            "summary": "A music streaming client for Subsonic servers",
+            "source_repo": "https://github.com/ultrasonic/ultrasonic",
+            "package": "org.moire.ultrasonic"
+        },
+        {
+            "name": "Riot.im",
+            "summary": "Open team collaboration",
+            "source_repo": "https://github.com/vector-im/riot-android",
+            "package": "im.vector.alpha"
+        },
+        {
+            "name": "Just Search",
+            "summary": "Simple Assist app with multiple search providers",
+            "source_repo": "https://github.com/veniosg/JustSearch",
+            "package": "co.pxhouse.sas"
+        },
+        {
+            "name": "WALLETH",
+            "summary": "Ethereum wallet",
+            "source_repo": "https://github.com/walleth/walleth",
+            "package": "org.walleth"
+        },
+        {
+            "name": "Stanley",
+            "summary": "An application explorer for developers",
+            "source_repo": "https://github.com/xgouchet/Stanley",
+            "package": "fr.xgouchet.packageexplorer"
+        },
+        {
+            "name": "log28",
+            "summary": "A simple no-frills period tracker",
+            "source_repo": "https://github.com/zoenb/log28",
+            "package": "com.log28"
+        },
+        {
+            "name": "LabCoat",
+            "summary": "GitLab client",
+            "source_repo": "https://gitlab.com/Commit451/LabCoat",
+            "package": "com.commit451.gitlab"
+        },
+        {
+            "name": "Om",
+            "summary": "Meditate mindfully for increased emotional intelligence",
+            "source_repo": "https://gitlab.com/enjoyingfoss/om",
+            "package": "com.enjoyingfoss.om"
+        },
+        {
+            "name": "Feeder",
+            "summary": "RSS feed reader",
+            "source_repo": "https://gitlab.com/spacecowboy/Feeder",
+            "package": "com.nononsenseapps.feeder"
+        },
+        {
+            "name": "FreedomBox",
+            "summary": "A companion app for your FreedomBox server",
+            "source_repo": "https://salsa.debian.org/freedombox-team/android-app",
+            "package": "org.freedombox.freedombox"
+        },
+        {
+            "name": "DAVdroid",
+            "summary": "Sync contacts, calendars and tasks with CalDAV/CardDAV",
+            "source_repo": "https://gitlab.com/bitfireAT/davdroid",
+            "package": "at.bitfire.davdroid"
+        },
+        {
+            "name": "ICSdroid",
+            "summary": "Subscribe ics calendars",
+            "source_repo": "https://gitlab.com/bitfireAT/icsdroid",
+            "package": "at.bitfire.icsdroid"
+        },
+        {
+            "package": "com.niusounds.matomeviewer",
+            "name": "\u307c\u304f\u306e\u304b\u3093\u304c\u3048\u305f\u3055\u3044\u304d\u3087\u3046\u306e2ch\u307e\u3068\u3081",
+            "summary": "Past and future, you want wiped out before you born all ads.",
+            "source_repo": "https://github.com/niusounds/2chmatome"
+        },
+        {
+            "package": "sreich.countthedays",
+            "name": "Count The Days",
+            "summary": "Create counters to count the days since or the days until any date.",
+            "source_repo": "https://github.com/sreich/android-count-the-days"
+        },
+        {
+            "package": "net.codechunk.speedofsound",
+            "name": "Speed of Sound",
+            "summary": "Keep your eyes on the road! Let Speed of Sound adjust your volume.",
+            "source_repo": "https://github.com/jpeddicord/speedofsound"
+        },
+        {
+            "package": "jp.takke.cpustats",
+            "name": "CPU Stats",
+            "summary": "Compact CPU Usage Monitor",
+            "source_repo": "https://github.com/takke/cpustats"
+        },
+        {
+            "package": "com.BibleQuote",
+            "name": "Bible",
+            "summary": "Bible with search, bookmarks, and advanced parallel passages of Scripture",
+            "source_repo": "https://github.com/YakushevVladimir/BibleQuote-for-Android"
+        },
+        {
+            "package": "com.mbcdev.folkets",
+            "name": "Folkets Ordkompis Swedish Dictionary",
+            "summary": "Folkets Ordkompis is a fast, offline, and ad-free Swedish/English dictionary",
+            "source_repo": "https://github.com/baz8080/folkets_android"
+        },
+        {
+            "package": "io.github.umren.watcher",
+            "name": "Watcher",
+            "summary": "Movie recommendation engine",
+            "source_repo": "https://github.com/umren/Watcher"
+        },
+        {
+            "package": "au.id.rlac.unitconverter",
+            "name": "Unit Converter",
+            "summary": "Basic unit conversion between commonly used US and metric units.",
+            "source_repo": "https://github.com/rlac/unitconverter"
+        },
+        {
+            "package": "bteelse.com.br.amipyscho",
+            "name": "Psycho Test",
+            "summary": "A Psychopath test.",
+            "source_repo": "https://github.com/felipexmitz/PsychoTest"
+        },
+        {
+            "package": "fi.tuska.jalkametri",
+            "name": "jAlcoMeter",
+            "summary": "Ever wonder how much you drink? Install jAlcoMeter and find out!",
+            "source_repo": "https://github.com/thaapasa/jalkametri-android"
+        },
+        {
+            "package": "com.tumblr.svetylk0.sheepsgohome.android",
+            "name": "Sheeps Go Home!",
+            "summary": "Lead the sheep back home, collect all badges and become the Sheep Master!",
+            "source_repo": "https://github.com/LittleLightCz/SheepsGoHome"
+        },
+        {
+            "package": "com.bubelov.coins",
+            "name": "Bitcoin World Map",
+            "summary": "See who accepts Bitcoin and get notified of new places nearby.",
+            "source_repo": "https://github.com/bubelov/coins-android"
+        },
+        {
+            "package": "nl.renedegroot.android.adbawake",
+            "name": "Stay-awake on adb",
+            "summary": "ADB notifications will trigger a wake lock to keep screen and phone on",
+            "source_repo": "https://github.com/ontherunvaro/adb-awake"
+        },
+        {
+            "package": "com.skydoves.waterdays",
+            "name": "\ubb3c \ud55c\uc794 \ud574\uc694 - \ubb3c \ub9c8\uc2dc\uae30",
+            "summary": "Create a smart hydration habits with \"I'm a glass of water!",
+            "source_repo": "https://github.com/skydoves/WaterDrink"
+        },
+        {
+            "package": "com.jidogoon.roundedscreen",
+            "name": "Rounded Screen",
+            "summary": "Make screen rounded like Galaxy S8, LG G6",
+            "source_repo": "https://github.com/jidogoon/RoundedScreen"
+        },
+        {
+            "package": "de.tubaf.mandelGL",
+            "name": "MandelGL",
+            "summary": "Rendering the Mandelbrot set with OpenGL ES",
+            "source_repo": "https://github.com/bnlrnz/MandelGL"
+        },
+        {
+            "package": "com.epimorphics.android.myrivers",
+            "name": "myRivers",
+            "summary": "myRivers is a simple way of browsing detailed river pollution reports in the UK",
+            "source_repo": "https://github.com/alessio-b-zak/myRivers"
+        },
+        {
+            "package": "com.alderferstudios.handandfootscores",
+            "name": "Hand and Foot Scores",
+            "summary": "A score keeper and tutorial for Hand and Foot",
+            "source_repo": "https://github.com/BenAlderfer/hand-and-foot-scores"
+        },
+        {
+            "package": "com.loloof64.android.basicchessendgamestrainer",
+            "name": "Basic chess endgames",
+            "summary": "Generates basic chess endgames and let you play them against the device.",
+            "source_repo": "https://github.com/loloof64/BasicChessEndGamesTrainer"
+        },
+        {
+            "package": "app.simone",
+            "name": "Simone - Simon Says Game",
+            "summary": "Have you ever played Simon Says? The classic memory game has become digital.",
+            "source_repo": "https://github.com/nicorsm/S3-16-simone"
+        },
+        {
+            "package": "rectangledbmi.com.pittsburghrealtimetracker",
+            "name": "PAT Track",
+            "summary": "Track the public transit buses of Pittsburgh Port Authority in realtime!",
+            "source_repo": "https://github.com/rectangle-dbmi/Realtime-Port-Authority"
+        },
+        {
+            "package": "com.whiterabbit.pisabike",
+            "name": "Pisa bike sharing - CicloPi",
+            "summary": "App unofficial Cyclops, the bike sharing service in Pisa",
+            "source_repo": "https://github.com/fedepaol/BikeSharing"
+        },
+        {
+            "package": "com.threeDBJ.puzzleDroidFree",
+            "name": "Cube Droid",
+            "summary": "An ad free, full featured, multi-dimensional cube",
+            "source_repo": "https://github.com/sampullman/android-PuzzleDroid"
+        },
+        {
+            "package": "me.camsteffen.polite",
+            "name": "Polite - Automatically Silence Your Phone",
+            "summary": "Automatically silence your phone at the right times",
+            "source_repo": "https://github.com/camsteffen/polite"
+        },
+        {
+            "package": "com.calintat.sensors",
+            "name": "Sensors",
+            "summary": "Sensor dashboard and logger for Android",
+            "source_repo": "https://github.com/calintat/sensors"
+        },
+        {
+            "package": "com.laughingstock.ritwick.shutup",
+            "name": "ShutUp! - Stay Lazy",
+            "summary": "I help you be lazy.\nNow, rate me.",
+            "source_repo": "https://github.com/RitwickVerma/ShutUp"
+        },
+        {
+            "package": "es.danirod.rectball.android",
+            "name": "Rectball \u2013 Puzzle Bubble Game \ud83d\udd35",
+            "summary": "Make combinations and earn points on this interactive puzzle bubble game!",
+            "source_repo": "https://github.com/danirod/rectball"
+        },
+        {
+            "package": "com.appspot.pistatium.mahougen",
+            "name": "Mahougen -MagicCircleGenerator",
+            "summary": "Powerful magic is activated now!",
+            "source_repo": "https://github.com/pistatium/mahougen"
+        },
+        {
+            "package": "com.wilderpereira.lmgtfygen",
+            "name": "Lmgtfy Generator",
+            "summary": "Generate \"How to Google\" tutorials and have fun with your friends!",
+            "source_repo": "https://github.com/WilderPereira/lmgtfyGen"
+        },
+        {
+            "package": "org.teamblueridge.pasteitapp",
+            "name": "Paste It",
+            "summary": "Paste It pastes any text to a Stikked installation on the web.",
+            "source_repo": "https://github.com/teamblueridge/PasteIt"
+        },
+        {
+            "package": "com.scientists.happy.botanist",
+            "name": "Botanist - Plant Care and Watering App",
+            "summary": "The first app for plant health tracking and growth recording!",
+            "source_repo": "https://github.com/iskandergaba/Botanist"
+        },
+        {
+            "package": "com.amar.NoteDirector",
+            "name": "NoteDirector",
+            "summary": "NoteDirector specially targets students to manage their notes in a few taps!!!",
+            "source_repo": "https://github.com/AMARJITVS/NoteDirector"
+        },
+        {
+            "package": "ch.rmy.android.statusbar_tacho",
+            "name": "Status Bar Speedometer",
+            "summary": "Displays your current speed in your status bar",
+            "source_repo": "https://github.com/Waboodoo/Status-Bar-Tachometer"
+        },
+        {
+            "package": "se.barsk.park",
+            "name": "Opark",
+            "summary": "The nice and easy way to park your car at the HERN Labs Link\u00f6ping office",
+            "source_repo": "https://github.com/nibarius/opera-park-android"
+        },
+        {
+            "package": "com.nao20010128nao.DroidComplex",
+            "name": "Complex",
+            "summary": "Inspect Complex Number Quickly",
+            "source_repo": "https://github.com/nao20010128nao/DroidComplex"
+        },
+        {
+            "package": "uk.ac.hutton.ics.buntata",
+            "name": "Buntata",
+            "summary": "Plant disease identification on the go!",
+            "source_repo": "https://github.com/buntata/buntata-app"
+        },
+        {
+            "package": "com.adityakamble49.ttl",
+            "name": "GoFun \ud83c\udf89",
+            "summary": "Motivates you to go home \ud83c\udfe1 and live your life",
+            "source_repo": "https://github.com/AkshayChordiya/gofun-android"
+        },
+        {
+            "package": "com.stolineage.lineagewatcher",
+            "name": "\ub9ac\ub2c8\uc9c0M \uc870\uae30\uacbd\ubcf4\uae30",
+            "summary": "Lineage M potion to detect vibration or oscillation exhausted M + Lineage ends! Defend your precious experience.",
+            "source_repo": "https://github.com/includex/LineageWatcher"
+        },
+        {
+            "package": "bro.tm",
+            "name": "Open Texas Method",
+            "summary": "Free and open source Texas Method plan with a variety of tools",
+            "source_repo": "https://github.com/imilas/tm"
+        },
+        {
+            "package": "com.esafirm.androidplayground",
+            "name": "Android Playground",
+            "summary": "Android Playground",
+            "source_repo": "https://github.com/esafirm/android-playground"
+        },
+        {
+            "package": "com.aaplab.bakubus",
+            "name": "BakuBus",
+            "summary": "BakuBus",
+            "source_repo": "https://github.com/mecid/BakuBus"
+        },
+        {
+            "name": "OpenLauncher (Alpha/Unstable)",
+            "summary": "Launcher.OpenSource();",
+            "source_repo": "https://github.com/OpenLauncherTeam/openlauncher",
+            "package": "com.benny.openlauncher"
+        },
+        {
+            "name": "Lightning Web Browser +",
+            "summary": "Speed, Simplicity, Security - Lightning makes browsing the web better.",
+            "source_repo": "https://github.com/anthonycr/Lightning-Browser",
+            "package": "acr.browser.lightning"
+        },
+        {
+            "name": "PaperLaunch: Side launcher",
+            "summary": "Side launcher in material design that launches apps with one gesture",
+            "source_repo": "https://github.com/devmil/PaperLaunch",
+            "package": "de.devmil.paperlaunch"
+        },
+        {
+            "name": "Esperanto Dictionary: Senreta Vortaro",
+            "summary": "Offline English-Esperanto dictionary",
+            "source_repo": "https://github.com/ianmcxa/vortaro",
+            "package": "org.mcxa.vortaro"
+        },
+        {
+            "name": "Titan Companion",
+            "summary": "Fighting Fantasy helper (stat sheets, dice rolls, combat engine, save/load)",
+            "source_repo": "https://github.com/joaomneto/TitanCompanion",
+            "package": "pt.joaomneto.titancompanion"
+        },
+        {
+            "name": "FAST App Search Tool",
+            "summary": "Launch Applications fast and for free with a small App that needs no permission!",
+            "source_repo": "https://github.com/ligi/FAST",
+            "package": "org.ligi.fast"
+        },
+        {
+            "name": "Battery Charge Limit [ROOT]",
+            "summary": "Stop charging at desired level to preserve battery health for most devices!",
+            "source_repo": "https://github.com/sriharshaarangi/BatteryChargeLimit",
+            "package": "com.slash.batterychargelimit"
+        },
+        {
+            "package": "me.siketyan.silicagel",
+            "name": "SilicaGel",
+            "summary": "Tweets your listening music from notifications of music player apps.",
+            "source_repo": "https://github.com/Siketyan/SilicaGel-for-CloudPlayer"
+        },
+        {
+            "package": "com.geo.GeoQuake",
+            "name": "GeoQuake",
+            "summary": "An application that utilizes and displays USGS earthquake data.",
+            "source_repo": "https://github.com/stinsonga/GeoQuake"
+        },
+        {
+            "package": "com.peterlaurence.trekme",
+            "name": "TrekMe",
+            "summary": "Offline topographic maps, using USGS, France IGN, OpenStreetMap, etc.",
+            "source_repo": "https://github.com/peterLaurence/TrekAdvisor"
+        },
+        {
+            "package": "com.garpr.android",
+            "name": "GAR PR",
+            "summary": "a fan-made ranking system and tournament archive for Smash",
+            "source_repo": "https://github.com/charlesmadere/smash-ranks-android"
+        },
+        {
+            "package": "me.barta.stayintouch",
+            "name": "Smart Contact Reminder: Call, messages",
+            "summary": "Get contact reminders to stay in touch with important people in your life.",
+            "source_repo": "https://github.com/mbarta/scr-redesign"
+        },
+        {
+            "package": "com.ids1024.lsdict",
+            "name": "Lewis and Short Latin Dictionary",
+            "summary": "A Latin Dictionary by Charlton T. Lewis and Charles Short, Unabridged",
+            "source_repo": "https://github.com/ids1024/lsdict-android"
+        },
+        {
+            "package": "com.jkcarino.ankieditor",
+            "name": "AnkiEditor for AnkiDroid",
+            "summary": "An advanced note editor plug-in for AnkiDroid",
+            "source_repo": "https://github.com/jkennethcarino/AnkiEditor"
+        },
+        {
+            "package": "com.sjn.stamp",
+            "name": "Stamp Music Player",
+            "summary": "Music player studies music playback history and reminds memories.",
+            "source_repo": "https://github.com/sjnyag/stamp"
+        },
+        {
+            "package": "org.sanpra.checklist",
+            "name": "Checklist",
+            "summary": "A simple app used to maintain a to-do list",
+            "source_repo": "https://github.com/sandy-8925/Checklist"
+        },
+        {
+            "package": "com.manoj.dlt",
+            "name": "Test Deep Links & Deep linking",
+            "summary": "Test and verify deep links from your laptop browser or phone - WITHOUT ADB.",
+            "source_repo": "https://github.com/ManojMadanmohan/dlt"
+        },
+        {
+            "package": "com.ae.apps.randomcontact",
+            "name": "Random Contact",
+            "summary": "\"What we have here is a failure to communicate\".Communicate with a Random friend",
+            "source_repo": "https://github.com/midhunhk/random-contact"
+        },
+        {
+            "package": "com.totemsoft.screenlookcount",
+            "name": "Look Counter",
+            "summary": "Counts how many times your screen was turned on, as well as actually unlocked.",
+            "source_repo": "https://github.com/lomza/screenlookcount"
+        },
+        {
+            "package": "org.projectbass.bass",
+            "name": "ProjectBASS - Bandwidth and Signal Statistics",
+            "summary": "Improve the state of local internet quality in the Philippines.",
+            "source_repo": "https://github.com/bassph/bassph-app-android"
+        },
+        {
+            "package": "uk.colessoft.android.hilllist",
+            "name": "British Hills",
+            "summary": "The Hills of Britain, now on your Android Smartphone or Tablet.",
+            "source_repo": "https://github.com/colesadam/hill-lists"
+        },
+        {
+            "package": "net.yslibrary.monotweety",
+            "name": "Monotweety - tweet from notification",
+            "summary": "Open-source Twitter client just for tweeting from notification",
+            "source_repo": "https://github.com/yshrsmz/monotweety"
+        },
+        {
+            "package": "de.Maxr1998.xposed.maxlock",
+            "name": "MaxLock - Xposed app locker",
+            "summary": "An Xposed app locker with tons of features and customisations",
+            "source_repo": "https://github.com/Maxr1998/MaxLock"
+        },
+        {
+            "package": "net.stew.stew",
+            "name": "Stew",
+            "summary": "A simple soup.io app",
+            "source_repo": "https://github.com/exviva/stew"
+        },
+        {
+            "package": "com.bearenterprises.sofiatraffic",
+            "name": "Sofia Public Transport",
+            "summary": "Get the arrival times for public transportation in Sofia.",
+            "source_repo": "https://github.com/thalvadzhi/Sofia-Traffic"
+        },
+        {
+            "package": "org.eurofurence.connavigator",
+            "name": "Eurofurence",
+            "summary": "Your one-stop Eurofurence app! Keep track of events, dealers and more!",
+            "source_repo": "https://github.com/eurofurence/ef-app_android"
+        },
+        {
+            "package": "io.github.project_travel_mate",
+            "name": "Travel Mate",
+            "summary": "A complete travel guide!",
+            "source_repo": "https://github.com/Swati4star/Travel-Mate"
+        },
+        {
+            "package": "com.ids1024.whitakerswords",
+            "name": "Whitaker's Words",
+            "summary": "Latin Morphological Analyzer and Dictionary",
+            "source_repo": "https://github.com/ids1024/whitakers-words-android"
+        },
+        {
+            "package": "pw.janyo.whatanime",
+            "name": "WhatAnime - \u4ee5\u56fe\u641c\u756a",
+            "summary": "Upload your interest but is not clear source of lycopene drama shot to WhatAnime, screenshots help you find the source, or even accurate to frame.",
+            "source_repo": "https://github.com/JanYoStudio/WhatAnime"
+        },
+        {
+            "package": "com.systemallica.valenbisi",
+            "name": "Map for ValenBisi",
+            "summary": "Get information about the public bike system of Valencia in real time",
+            "source_repo": "https://github.com/systemallica/ValenBisi"
+        },
+        {
+            "package": "se.creotec.chscardbalance2",
+            "name": "Chalmers Card Balance",
+            "summary": "Quickly and easily check your Chalmers card balance - never be worried again!",
+            "source_repo": "https://github.com/hsson/card-balance-app"
+        },
+        {
+            "package": "com.gimranov.zandy.app",
+            "name": "Zandy",
+            "summary": "Mobile access to your Zotero library",
+            "source_repo": "https://github.com/avram/zandy"
+        },
+        {
+            "package": "com.zacharee1.systemuituner",
+            "name": "SystemUI Tuner",
+            "summary": "PLEASE READ ENTIRE DESCRIPTION BEFORE INSTALLING",
+            "source_repo": "https://github.com/zacharee/SystemUITuner2"
+        },
+        {
+            "package": "net.mm2d.dmsexplorer",
+            "name": "DMS Explorer (DLNA Player)",
+            "summary": "This is a kind of DLNA player.",
+            "source_repo": "https://github.com/ohmae/DmsExplorer"
+        },
+        {
+            "package": "com.pyamsoft.homebutton",
+            "name": "Home Button",
+            "summary": "Is your Home button malfunctioning?\nDon't worry, install Home Button today!",
+            "source_repo": "https://github.com/pyamsoft/home-button"
+        },
+        {
+            "package": "pl.org.seva.navigator",
+            "name": "Victor Navigator",
+            "summary": "Share your location with your friends.",
+            "source_repo": "https://github.com/syrop/Wiktor-Navigator"
+        },
+        {
+            "package": "org.commcare.dalvik",
+            "name": "CommCare",
+            "summary": "CommCare is a mobile platform that supports frontline workers (FLWs).",
+            "source_repo": "https://github.com/dimagi/commcare-android"
+        },
+        {
+            "package": "ch.rmy.android.http_shortcuts",
+            "name": "HTTP Request Shortcuts",
+            "summary": "Submit HTTP Requests from Shortcuts on your Home Screen.",
+            "source_repo": "https://github.com/Waboodoo/HTTP-Shortcuts"
+        },
+        {
+            "package": "de.cineaste.android",
+            "name": "Cineaste",
+            "summary": "Find the perfect movie for you and your friends at a shared movie night!",
+            "source_repo": "https://github.com/marcelgross90/Cineaste"
+        },
+        {
+            "package": "com.directdev.portal",
+            "name": "Portal for Binusmaya",
+            "summary": "A 3rd party app that provides fast and easy on/offline access to Binusmaya",
+            "source_repo": "https://github.com/chrsep/Kingfish"
+        },
+        {
+            "package": "cat.xojan.random1",
+            "name": "Podcasts RAC1 - No Oficial",
+            "summary": "Escolta i descarrega't els podcasts dels programes de RAC1",
+            "source_repo": "https://github.com/joan-domingo/Podcasts-RAC1-Android"
+        },
+        {
+            "package": "quickbeer.android",
+            "name": "QuickBeer \u2013 Beer Reviews",
+            "summary": "QuickBeer is a beautiful and sleek app for finding beer details and reviews.",
+            "source_repo": "https://github.com/apoi/quickbeer-android"
+        },
+        {
+            "package": "com.pluscubed.velociraptor",
+            "name": "Velociraptor - Speed Limits & Speedometer",
+            "summary": "Floating speed limit monitor that automatically displays in maps",
+            "source_repo": "https://github.com/plusCubed/velociraptor"
+        },
+        {
+            "package": "name.cantanima.chineseremainderclock",
+            "name": "Chinese Remainder Clock",
+            "summary": "Time in a format you can reconstruct using the Chinese Remainder Theorem.",
+            "source_repo": "https://github.com/johnperry-math/Chinese-Remainder-Clock"
+        },
+        {
+            "package": "com.codeforgvl.trolleytrackerclient",
+            "name": "Greenville Trolley Tracker",
+            "summary": "App for tracking Greenlink's Trolleys in Downtown Greenville, SC",
+            "source_repo": "https://github.com/codeforgreenville/trolley-tracker-android-client"
+        },
+        {
+            "package": "sk.styk.martin.apkanalyzer",
+            "name": "Apk Analyzer",
+            "summary": "Take a look under the hood of your applications!",
+            "source_repo": "https://github.com/MartinStyk/AndroidApkAnalyzer"
+        },
+        {
+            "package": "com.pixplicity.cryptogram",
+            "name": "Cryptogram",
+            "summary": "Decipher the hidden text to reveal the motivational quote!",
+            "source_repo": "https://github.com/pflammertsma/cryptogram"
+        },
+        {
+            "package": "com.thanksmister.iot.mqtt.alarmpanel",
+            "name": "MQTT Alarm Control Panel",
+            "summary": "A MQTT Alarm Control Panel for Home Assistant and home automation platforms.",
+            "source_repo": "https://github.com/thanksmister/androidthings-mqtt-alarm-panel"
+        },
+        {
+            "package": "pixel.kotlin.bassblog",
+            "name": "Drum & Bass Mixes | Bass Blog",
+            "summary": "App to listen drum and bass mixes",
+            "source_repo": "https://github.com/Gark/bassblog_kotlin"
+        },
+        {
+            "package": "com.glodanif.bluetoothchat",
+            "name": "Bluetooth Chat",
+            "summary": "1-to-1 Bluetooth chatting app",
+            "source_repo": "https://github.com/glodanif/BluetoothChat"
+        },
+        {
+            "package": "net.mm2d.android.vmb",
+            "name": "Voice Message Board",
+            "summary": "Enter the text in the voice, and displays the text in large letters.",
+            "source_repo": "https://github.com/ohmae/VoiceMessageBoard"
+        },
+        {
+            "package": "de.thecode.android.tazreader",
+            "name": "taz.app",
+            "summary": "Daily the latest edition of \"daily newspaper\".",
+            "source_repo": "https://github.com/die-tageszeitung/tazapp-android"
+        },
+        {
+            "package": "co.garmax.materialflashlight",
+            "name": "Material Flashlight",
+            "summary": "Opensource flashlight with No Ads",
+            "source_repo": "https://github.com/garmax1/material-flashlight"
+        },
+        {
+            "package": "science.apolline",
+            "name": "Apolline",
+            "summary": "Application for air pollution monitoring",
+            "source_repo": "https://github.com/Apolline-Lille/apolline-android"
+        },
+        {
+            "package": "com.conorodonnell.bus",
+            "name": "SneakyBus",
+            "summary": "Dublin bus times",
+            "source_repo": "https://github.com/ronocod/bus"
+        },
+        {
+            "package": "me.kirimin.mitsumine",
+            "name": "Mitsumine \u306f\u3066\u306a\u30d6\u30c3\u30af\u30de\u30fc\u30af\u30af\u30e9\u30a4\u30a2\u30f3\u30c8(\u306f\u3066\u30d6Viewer)",
+            "summary": "It is a simple client application in order to comfortably use the Hatena bookmark.",
+            "source_repo": "https://github.com/kirimin/mitsumine"
+        },
+        {
+            "package": "com.ianhanniballake.localstorage",
+            "name": "Local Storage",
+            "summary": "Explore your local storage via this sample app for the Storage Access Framework",
+            "source_repo": "https://github.com/ianhanniballake/LocalStorage"
+        },
+        {
+            "package": "com.doctoror.particleswallpaper",
+            "name": "Particle Constellations Live Wallpaper",
+            "summary": "Flying particles forming constellations customizable live wallpaper",
+            "source_repo": "https://github.com/Doctoror/ParticleConstellationsLiveWallpaper"
+        },
+        {
+            "package": "io.ipoli.android",
+            "name": "RPG ToDo List & Calendar. Habit Tracker. Organizer",
+            "summary": "Stay motivated & achieve your Goals by turning your ToDos & Habits into a game!",
+            "source_repo": "https://github.com/iPoli/iPoli-android"
+        },
+        {
+            "package": "com.ofalvai.bpinfo",
+            "name": "BPInfo - Budapest Public Transport Notifications",
+            "summary": "Budapest public transport incident notifications",
+            "source_repo": "https://github.com/ofalvai/BPInfo"
+        },
+        {
+            "package": "com.uncmorfi",
+            "name": "UNCmorfi",
+            "summary": "UNOFFICIAL application of university dining UNC",
+            "source_repo": "https://github.com/AIDEA775/UNCmorfi"
+        },
+        {
+            "package": "com.czbix.v2ex",
+            "name": "V2EX+",
+            "summary": "V2EX tailored to the client.",
+            "source_repo": "https://github.com/CzBiX/v2ex-android"
+        },
+        {
+            "package": "de.ironjan.mensaupb",
+            "name": "MensaUPB",
+            "summary": "The menus of the Studentenwerk Paderborn's restaurants for your mobile device.",
+            "source_repo": "https://github.com/ironjan/MensaUPB"
+        },
+        {
+            "package": "com.defianttech.convertme",
+            "name": "Convert Units",
+            "summary": "Unit conversion tool, with optional home screen widget.",
+            "source_repo": "https://github.com/dbrant/unitconverter-android"
+        },
+        {
+            "package": "com.heed.justquotes",
+            "name": "Just Quotes",
+            "summary": "A minimalistic app to display quotes.",
+            "source_repo": "https://github.com/howard-e/just-quotes-kt"
+        },
+        {
+            "package": "com.firstrowria.pushnotificationtester",
+            "name": "Push Notification Tester",
+            "summary": "This App allows you to test whether Push Notifications are working properly",
+            "source_repo": "https://github.com/bbindreiter/PushNotificationTester_App"
+        },
+        {
+            "package": "fr.openium.auvergnewebcams",
+            "name": "Auvergne Webcams",
+            "summary": "Keep an eye on your region!",
+            "source_repo": "https://github.com/openium/auvergne-webcams-droid"
+        },
+        {
+            "package": "com.stevenschoen.putionew",
+            "name": "Put.io",
+            "summary": "The cloud storage service with a certain gravity",
+            "source_repo": "https://github.com/DSteve595/Put.io"
+        },
+        {
+            "package": "is.xyz.mpv",
+            "name": "mpv-android",
+            "summary": "Video player for Android based on libmpv.",
+            "source_repo": "https://github.com/jeeb/mpv-android"
+        },
+        {
+            "package": "com.pennapps.labs.pennmobile",
+            "name": "Penn Mobile",
+            "summary": "Penn Mobile - University of Pennsylvania",
+            "source_repo": "https://github.com/pennlabs/penn-mobile-android"
+        },
+        {
+            "package": "org.blitzortung.android.app",
+            "name": "Blitzortung Lightning Monitor",
+            "summary": "Have a quick overview of the current thunderstorm situation whenever you want.",
+            "source_repo": "https://github.com/wuan/bo-android"
+        },
+        {
+            "package": "fr.corenting.edcompanion",
+            "name": "EDCompanion",
+            "summary": "Community goals updates, in-game news, and CMDR informations for Elite:Dangerous",
+            "source_repo": "https://github.com/corenting/EDCompanion"
+        },
+        {
+            "package": "de.avpptr.umweltzone",
+            "name": "Umweltzone (low emission zone)",
+            "summary": "Know where a low emission zone is! Avoid a ticket because of a wrong sticker",
+            "source_repo": "https://github.com/johnjohndoe/Umweltzone"
+        },
+        {
+            "package": "com.greenlionsoft.pollution.madrid",
+            "name": "Madrid Pollution",
+            "summary": "Check out the Madrid pollution levels in real time and alert notifications",
+            "source_repo": "https://github.com/GreenLionSoft/madrid-pollution-android-app"
+        },
+        {
+            "package": "nl.brouwerijdemolen.borefts2013",
+            "name": "Borefts Beer Festival 2018",
+            "summary": "Official companion app to the Borefts Beer Festival 2018",
+            "source_repo": "https://github.com/erickok/borefts2015"
+        },
+        {
+            "package": "pl.temomuko.autostoprace",
+            "name": "Auto Stop Race",
+            "summary": "The official mobile application for runners autostopowego Auto Stop Race",
+            "source_repo": "https://github.com/TeMoMuKo/AutoStopRace"
+        },
+        {
+            "name": "ShowsRage",
+            "summary": "Your Shows. Everywhere.",
+            "source_repo": "https://github.com/MGaetan89/ShowsRage",
+            "package": "com.mgaetan89.showsrage"
+        },
+        {
+            "name": "Phone Saver",
+            "summary": "Save files to your phone with ease",
+            "source_repo": "https://github.com/ScreamingHawk/phone-saver",
+            "package": "link.standen.michael.phonesaver"
+        },
+        {
+            "name": "Simple Calculator",
+            "summary": "A calculator with the basic functions and a customizable widget.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Calculator",
+            "package": "com.simplemobiletools.calculator"
+        },
+        {
+            "name": "Simple Calendar Pro - Events & Reminders",
+            "summary": "A beautiful calendar without ads or weird permissions",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Calendar",
+            "package": "com.simplemobiletools.calendar.pro"
+        },
+        {
+            "name": "Simple Camera",
+            "summary": "A camera with flash, zoom and no ads.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Camera",
+            "package": "com.simplemobiletools.camera"
+        },
+        {
+            "name": "Simple Flashlight",
+            "summary": "A simple flashlight without ads.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Flashlight",
+            "package": "com.simplemobiletools.flashlight"
+        },
+        {
+            "name": "Simple Gallery Pro: Photo Manager & Editor",
+            "summary": "Offline gallery without ads. Organize, edit, recover and protect photos & videos",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Gallery",
+            "package": "com.simplemobiletools.gallery.pro"
+        },
+        {
+            "name": "Simple Music Player",
+            "summary": "A clean music player with a customizable widget.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Music-Player",
+            "package": "com.simplemobiletools.musicplayer"
+        },
+        {
+            "name": "Simple Notes Pro",
+            "summary": "A quick note taking app without ads or weird permissions.",
+            "source_repo": "https://github.com/SimpleMobileTools/Simple-Notes",
+            "package": "com.simplemobiletools.notes.pro"
+        },
+        {
+            "name": "Yubico Authenticator",
+            "summary": "Allows you to use a YubiKey to store 2-factor authentication credentials.",
+            "source_repo": "https://github.com/Yubico/yubioath-android",
+            "package": "com.yubico.yubioath"
+        },
+        {
+            "name": "Kakugo - Learning Japanese",
+            "summary": "Learn Japanese with Kakugo",
+            "source_repo": "https://github.com/blastrock/kaqui",
+            "package": "org.kaqui"
+        },
+        {
+            "name": "French Revolutionary Calendar",
+            "summary": "Resizable widget displaying today's date in the French Revolutionary calendar.",
+            "source_repo": "https://github.com/caarmen/FRCAndroidWidget",
+            "package": "ca.rmen.android.frenchcalendar"
+        },
+        {
+            "name": "Calendula",
+            "summary": "Medication management made easy",
+            "source_repo": "https://github.com/citiususc/calendula",
+            "package": "es.usc.citius.servando.calendula"
+        },
+        {
+            "name": "Wikimedia Commons",
+            "summary": "Upload your pictures to Wikimedia Commons, the reusable media repository",
+            "source_repo": "https://github.com/commons-app/apps-android-commons",
+            "package": "fr.free.nrw.commons"
+        },
+        {
+            "name": "PinPoi",
+            "summary": "Imports thousand points of interest for your GPS navigator in your Android",
+            "source_repo": "https://github.com/fvasco/pinpoi",
+            "package": "io.github.fvasco.pinpoi"
+        },
+        {
+            "name": "Materialistic - Hacker News",
+            "summary": "Fast, modern & flexible Hacker News reading experience, for phones & tablets.",
+            "source_repo": "https://github.com/hidroh/materialistic",
+            "package": "io.github.hidroh.materialistic"
+        },
+        {
+            "name": "CPU Info (open-source)",
+            "summary": "CPU Info provides information about device hardware and software.",
+            "source_repo": "https://github.com/kamgurgul/cpu-info",
+            "package": "com.kgurgul.cpuinfo"
+        },
+        {
+            "name": "andFHEM",
+            "summary": "Control your home",
+            "source_repo": "https://github.com/klassm/andFHEM",
+            "package": "li.klass.fhem"
+        },
+        {
+            "name": "Audinaut",
+            "summary": "An Airsonic client for Android",
+            "source_repo": "https://github.com/nvllsvm/Audinaut",
+            "package": "net.nullsum.audinaut"
+        },
+        {
+            "name": "Stocks Widget",
+            "summary": "A home screen widget that displays stock price quotes from your portfolio",
+            "source_repo": "https://github.com/premnirmal/StockTicker",
+            "package": "com.github.premnirmal.tickerwidget"
+        },
+        {
+            "name": "SexyTopo",
+            "summary": "Cave surveying and sketching tool with a sexy interface",
+            "source_repo": "https://github.com/richsmith/sexytopo",
+            "package": "org.hwyl.sexytopo"
+        },
+        {
+            "name": "Minetest Mods",
+            "summary": "Customise your Minetest experience using Lua mods.",
+            "source_repo": "https://github.com/rubenwardy/mtmods4android",
+            "package": "com.rubenwardy.minetestmodmanager"
+        },
+        {
+            "name": "RPN Calculator",
+            "summary": "Handy RPN Calculator. Open-source. Written in Kotlin.",
+            "source_repo": "https://github.com/scoutant/rpn",
+            "package": "org.scoutant.rpn"
+        },
+        {
+            "name": "Roku Remote",
+            "summary": "Turn your Android Device into a control center for your Roku Player and Roku TV",
+            "source_repo": "https://github.com/wseemann/RoMote",
+            "package": "wseemann.media.romote"
+        },
+        {
+            "name": "Password Store",
+            "summary": "A secure password manager that uses PGP to encrypt and store passwords",
+            "source_repo": "https://github.com/zeapo/Android-Password-Store",
+            "package": "com.zeapo.pwdstore"
+        },
+        {
+            "package": "me.proxer.app",
+            "name": "Proxer.Me - Anime und Manga",
+            "summary": "Your anime and manga community!",
+            "source_repo": "https://github.com/proxer/ProxerAndroid"
+        },
+        {
+            "package": "college.wyk.app",
+            "name": "Wah Yan College, Kowloon (WYK)",
+            "summary": "The official Android app of Wah Yan College, Kowloon (WYK).",
+            "source_repo": "https://github.com/WYKCode/WYK-Android"
+        },
+        {
+            "package": "com.arcao.geocaching4locus",
+            "name": "Locus Map - add-on Geocaching4Locus",
+            "summary": "Geocaching4Locus is a Locus Map add-on to download geocaches from Geocaching.com",
+            "source_repo": "https://github.com/arcao/Geocaching4Locus"
+        },
+        {
+            "package": "ca.rmen.youreawinner",
+            "name": "You're a Winner!",
+            "summary": "here's no way to lose!",
+            "source_repo": "https://github.com/caarmen/youreawinner"
+        },
+        {
+            "package": "com.calintat.units",
+            "name": "Units",
+            "summary": "Simple unit converter",
+            "source_repo": "https://github.com/calintat/units"
+        },
+        {
+            "package": "com.boardgamegeek",
+            "name": "BoardGameGeek",
+            "summary": "View information on your favorite board games and keep track of your collection.",
+            "source_repo": "https://github.com/ccomeaux/boardgamegeek4android"
+        },
+        {
+            "package": "com.booboot.vndbandroid",
+            "name": "VNDB Android",
+            "summary": "Android client for the Visual Novel Database ( VNDB - https://vndb.org )",
+            "source_repo": "https://github.com/herbeth1u/VNDB-Android"
+        },
+        {
+            "package": "nl.jqno.remindermail",
+            "name": "ReminderMail",
+            "summary": "Quickly mail reminders to yourself!",
+            "source_repo": "https://github.com/jqno/remindermail"
+        },
+        {
+            "package": "org.mozilla.focus",
+            "name": "Firefox Klar",
+            "summary": "Get The Privacy Browser. Fast & always private from Firefox, a browser you trust",
+            "source_repo": "https://github.com/mastizada/focus-android"
+        },
+        {
+            "package": "co.timecrypt.android",
+            "name": "Timecrypt for Android",
+            "summary": "Timecrypt is an open-source, non-realtime communication API for secret messaging",
+            "source_repo": "https://github.com/milosmns/Timecrypt"
+        },
+        {
+            "package": "com.nbehary.retribution",
+            "name": "Retribution Launcher",
+            "summary": "Replacement App Launcher.",
+            "source_repo": "https://github.com/nbehary/Retribution"
+        },
+        {
+            "package": "net.nonylene.photolinkviewer",
+            "name": "PhotoLinkViewer",
+            "summary": "You can preview various photos (twitter, flickr, ... ) by this app from URL.",
+            "source_repo": "https://github.com/nonylene/PhotoLinkViewer"
+        },
+        {
+            "package": "com.og.finance.ether",
+            "name": "Ether Tracker",
+            "summary": "Allows you to track the Ether value compared to dollar (USD) in real time.",
+            "source_repo": "https://github.com/olivierg13/EtherTracker"
+        },
+        {
+            "package": "com.wanbok.monger",
+            "name": "Monger - \ubb38\uc790\ub97c \uc2ac\ub799, \uc774\uba54\uc77c\ub85c \uc54c\uc544\uc11c \uc804\ub2ec!",
+            "summary": "Monger is a very simple application to send a letter to the slack (Slack) or email.",
+            "source_repo": "https://github.com/wanbok/Monger-Android"
+        },
+        {
+            "package": "com.motion.stage1",
+            "name": "Stage1",
+            "summary": "Stage1 App for Android.",
+            "source_repo": "https://github.com/ykrank/S1-Next"
+        },
+        {
+            "package": "com.agusyc.daycounter",
+            "name": "DayCounter",
+            "summary": "A simple, customizable, material design widget that counts days since or for an event",
+            "source_repo": "https://github.com/Agusyc/DayCounter"
+        },
+        {
+            "package": "com.github.laurenttreguier.deck",
+            "name": "Deck",
+            "summary": "Android application experiment for use with the Sola Android application",
+            "source_repo": "https://github.com/LaurentTreguier/deck"
+        },
+        {
+            "package": "pw.janyo.janyoshare",
+            "name": "JanYo Share",
+            "summary": "Better Sharing apks",
+            "source_repo": "https://github.com/Mystery00/JanYoShare"
+        },
+        {
+            "package": "net.computingtutor.robert.computingtutor",
+            "name": "Computing Tutor",
+            "summary": "The Computing Tutor Android application aims to provide an efficent way to browse Computing Tutor video tutorials from an Android device.",
+            "source_repo": "https://github.com/robnixon/ComputingTutorAndroidApp"
+        }
+    ]
+}
