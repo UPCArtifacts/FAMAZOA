@@ -4,7 +4,7 @@ import subprocess
 
 ### Check these values before run #########################
 crawler_dir="/Users/brunomateus/MyProjects/F-DroidCrawler/"
-last_update = date(2018, 12, 12)
+last_update = date(2019, 07, 17)
 ###########################################################
 
 start_date = last_update + timedelta(days=1)
