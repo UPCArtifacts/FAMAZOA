@@ -173,4 +173,4 @@ if input_file.name.endswith(".json"):
     result = parse_json(input_file, repos_dir)
 
 
-print(json.dumps(result, indent=4, sort_keys=False), file=args.output)
+print(json.dumps({ "apps": result}, indent=4, sort_keys=False), file=args.output)
