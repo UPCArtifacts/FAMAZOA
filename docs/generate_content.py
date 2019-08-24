@@ -43,6 +43,28 @@ def generate_version_file(number_of_apps, version_label, version_id, apps):
                 download_file.write("{}\n".format(app['source_repo']))
         new_version_file.write("".join(bottom_content))
 
+def generate_current_version_file(number_of_apps, version_label, version_id, apps, online_info):
+    with open('templates/current_header.md', 'r') as header_file:
+        header_content = header_file.readlines()
+
+    with open('templates/current_footer.md', 'r') as bottom_file:
+        bottom_content = bottom_file.readlines()
+
+    with open('_current/current_version.md'.format(version_id), 'w') as new_version_file:
+        new_version_file.write("".join(header_content))
+        new_version_file.write("v_id: {}\n".format(version_id))
+        new_version_file.write("title: Stats\n")
+        new_version_file.write("label: v{}\n".format(version_id))
+        new_version_file.write("date: {}\n".format(version_date))
+        new_version_file.write("last_update: {}\n".format(online_info))
+        new_version_file.write("number_of_apps: {}\n".format(number_of_apps))
+        new_version_file.write("apps: \n")
+        for app in apps:
+            new_version_file.write("- repo: {}\n".format(app['source_repo']))
+            status = 200 if app['status']['repo_on'] else 404
+            new_version_file.write("  status: {}\n".format(status))
+        new_version_file.write("".join(bottom_content))
+
 def parse_json(input_file):
     result = []
     json_content = json.load(input_file)['apps']
@@ -50,6 +72,7 @@ def parse_json(input_file):
 
     generate_config_file(number_of_apps, version_id)
     generate_version_file(number_of_apps, version_label, version_id, json_content)
+    generate_current_version_file(number_of_apps, version_label, version_id, json_content,online_date)
 
 
 parser = argparse.ArgumentParser()
