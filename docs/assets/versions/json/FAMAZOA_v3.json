@@ -1,5 +1,5 @@
-{ "apps" :
-    [
+{
+    "apps": [
         {
             "commits": 16,
             "languages": {
@@ -5390,26 +5390,6 @@
             }
         },
         {
-            "commits": 769,
-            "languages": {
-                "Kotlin": 33.041515666368156,
-                "Java": 25.78903758756622,
-                "C": 13.69087972146199,
-                "Perl": 11.699210195205374,
-                "Python": 6.661589150855226,
-                "Shell": 4.964527135416231,
-                "CMake": 4.153240543126801
-            },
-            "active_branch": "master",
-            "name": "OMW",
-            "summary": "A game engine compatible with TES3:Morrowind data files",
-            "source_repo": "https://github.com/xyzz/openmw-android",
-            "package": "is.xyz.omw",
-            "status": {
-                "repo_on": true
-            }
-        },
-        {
             "commits": 212,
             "languages": {
                 "Kotlin": 80.480174504542,
@@ -6048,21 +6028,6 @@
             "summary": "Find apps just by typing",
             "source_repo": "https://github.com/ligi/FAST",
             "package": "org.ligi.faster",
-            "status": {
-                "repo_on": true
-            }
-        },
-        {
-            "commits": 506,
-            "languages": {
-                "Java": 95.12885958665717,
-                "Kotlin": 4.871140413342828
-            },
-            "active_branch": "master",
-            "name": "Fast N Fitness",
-            "summary": "Track fitness workouts",
-            "package": "org.ligi.faster",
-            "source_repo": "https://github.com/ligi/FAST",
             "status": {
                 "repo_on": true
             }

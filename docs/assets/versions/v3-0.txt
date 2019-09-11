@@ -262,7 +262,6 @@ https://git.feneas.org/christophehenry/freshrss-android
 https://github.com/7LPdWcaW/GrowTracker-Android
 https://source.puri.sm/liberty/social/android
 https://github.com/xyzz/openmw-android
-https://github.com/xyzz/openmw-android
 https://github.com/cvzi/ScreenshotTile
 https://github.com/sduduzog/slim-launcher
 https://codeberg.org/Freeyourgadget/TpmsMonitor
@@ -299,7 +298,6 @@ https://github.com/Utazukin/Ichaival
 https://github.com/R4md4c/GameDealz
 https://gitlab.com/jnda/FlashAlert
 https://github.com/mozilla-tw/FirefoxLite
-https://github.com/ligi/FAST
 https://github.com/ligi/FAST
 https://github.com/hanjoongcho/aaf-easydiary
 https://github.com/renyuneyun/Easer
