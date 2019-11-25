@@ -47,21 +47,24 @@ def cloc_info(repo):
         return None
     else:
         result = json.loads(process.stdout)
-        result.pop('header') 
+        total_nfiles = result.pop('header').get('n_files')  
         total = result.pop('SUM')
         languages = {}
         for l in result:
-            languages[l] = (result.get(l).get('code')/total.get('code'))*100
-
-        return languages
+            lang_details = {}
+            lang_details['proportion'] = (result.get(l).get('code')/total.get('code'))*100
+            lang_details['files'] = result.get(l).get('nFiles')
+            lang_details['sloc'] = result.get(l).get('code')
+            languages[l] = lang_details
+        return (total_nfiles ,languages)
  
 def get_info(repo):
     logging.debug('Retriving information about the repository')
     n_commits = len(list(repo.iter_commits()))
     active = repo.active_branch
     # call cloc
-    languages = cloc_info(repo)
-    return {'commits': n_commits, 'languages': languages, 'active_branch': active.name} 
+    nfiles, languages = cloc_info(repo)
+    return {'commits': n_commits, 'files': nfiles,  'languages': languages, 'active_branch': active.name} 
 
        
 def parse_json(input_file, repos_dir):
@@ -86,8 +89,8 @@ def parse_json(input_file, repos_dir):
         repo_on = is_online(repo_url_str)
 
         app['status'] = {
-#                'store_on' : is_online("https://play.google.com/store/apps/details?id={}".format(package)),
-#                'fdroid_on' : is_online("https://f-droid.org/en/packages/{}/".format(package)),
+                'store_on' : is_online("https://play.google.com/store/apps/details?id={}".format(package)),
+                'fdroid_on' : is_online("https://f-droid.org/en/packages/{}/".format(package)),
                 'repo_on' : repo_on
                 }
 
@@ -136,7 +139,7 @@ def parse_json(input_file, repos_dir):
                 continue
 
         info = get_info(repo)
-        app = {**info, **app}
+        app = {**app, **info}
         repo.close()
         result.append(app)
 
