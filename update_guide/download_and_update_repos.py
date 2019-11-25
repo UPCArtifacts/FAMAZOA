@@ -9,7 +9,8 @@ from git import GitCommandError
 from git import InvalidGitRepositoryError
 from pathlib import Path
 import logging
-import urllib.request
+import requests
+import time
 
 logging.basicConfig(format='%(asctime)s | [%(levelname)s] : %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 logger = logging.getLogger()
@@ -20,12 +21,19 @@ error_log.setLevel(logging.ERROR)
 logger.addHandler(error_log)
 error_log.close()
 
+headers = {
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15',
+        'referer': 'https://try.kotlinlang.org/',
+        'Accept-Language': 'pt-br',
+        'Accept-Encoding': 'br, gzip, deflate'
+}
+
 def is_online(url):
     try:
-        http_status  = urllib.request.urlopen(url).getcode()
-    except urllib.error.HTTPError as err:
-        http_status = err.code
-    return http_status == 200
+        response  = requests.get(url, headers=headers)
+    except requests.exceptions.RequestException:
+        return False
+    return response.status_code == 200
 
 def clone_repo(repo_url, folder):
     repo_url = repo_url.replace("https://", "https://:@")
@@ -60,11 +68,33 @@ def cloc_info(repo):
  
 def get_info(repo):
     logging.debug('Retriving information about the repository')
-    n_commits = len(list(repo.iter_commits()))
+    commits = list(repo.iter_commits())
+    n_commits = len(commits)
     active = repo.active_branch
     # call cloc
     nfiles, languages = cloc_info(repo)
-    return {'commits': n_commits, 'files': nfiles,  'languages': languages, 'active_branch': active.name} 
+    first_commit = commits[-1].committed_date
+    last_commit =  repo.head.commit.committed_date
+    first_commit_dic = {
+            'date': time.strftime("%d-%m-%Y", time.gmtime(first_commit)),
+            'timestamp': first_commit,
+            'hash': commits[-1].hexsha
+            }
+
+    last_commit_dic = {
+            'date': time.strftime("%d-%m-%Y", time.gmtime(last_commit)),
+            'timestamp': last_commit,
+            'hash': repo.head.commit.hexsha
+    }
+    
+    return {'commits': n_commits,
+            'files': nfiles,
+            'languages': languages,
+            'active_branch': active.name,
+            'active_period':  int((last_commit - first_commit)/86400),
+            'initial_commit': first_commit_dic,
+            'last_commit': last_commit_dic }
+ 
 
        
 def parse_json(input_file, repos_dir):
