@@ -257,7 +257,6 @@ https://github.com/geckour/Glyph
 https://github.com/mattvchandler/2050
 https://github.com/adityakamble49/dcipher-app
 https://github.com/zouroboros/feed-watcher
-https://github.com/sterrenburg/flutterhole
 https://git.feneas.org/christophehenry/freshrss-android
 https://github.com/7LPdWcaW/GrowTracker-Android
 https://source.puri.sm/liberty/social/android

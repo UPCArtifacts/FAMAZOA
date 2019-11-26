@@ -6,24 +6,24 @@ v_id: 3.0
 title: Stats
 label: v3.0
 date: 2019-07-17 00:00:00
-last_update: 2019-09-11 00:00:00
+last_update: 2019-11-26 00:00:00
 languages:
 - name: XML
-  files: 33692
-  blank: 172987
-  comment: 150441
-  code: 1983397
+  files: 35062
+  blank: 174666
+  comment: 152669
+  code: 2079950
 - name: Java
-  files: 15683
-  blank: 382661
-  comment: 360311
-  code: 1922123
+  files: 15491
+  blank: 376466         
+  comment: 353936
+  code: 1888392
 - name: Kotlin
-  files: 26707
-  blank: 341302
-  comment: 253425
-  code: 1685144
-number_of_apps: 388
+  files: 28666
+  blank: 373782         
+  comment: 270749        
+  code: 1864985
+number_of_apps: 387
 apps: 
 - repo: https://github.com/39aldo39/DecSyncCC
   status: 200
@@ -542,8 +542,6 @@ apps:
 - repo: https://github.com/adityakamble49/dcipher-app
   status: 200
 - repo: https://github.com/zouroboros/feed-watcher
-  status: 200
-- repo: https://github.com/sterrenburg/flutterhole
   status: 200
 - repo: https://git.feneas.org/christophehenry/freshrss-android
   status: 200
