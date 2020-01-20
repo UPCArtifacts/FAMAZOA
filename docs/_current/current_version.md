@@ -830,7 +830,7 @@ apps:
 
     <div class="card-action">
         {% assign version = site.versions | where: "v_id", page.v_id | first %}
-        {% assign download_url = "/assets" | append: version.url | append: ".txt" %}
+        {% assign download_url = site.url | append:  "/FAMAZOA/assets" | append: version.url | append: ".txt" %}
         <a href="{{ download_url }}" target="_blank"><i class="material-icons">get_app</i> Download</a>
     </div>
   </div>
