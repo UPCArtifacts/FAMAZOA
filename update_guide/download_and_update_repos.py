@@ -69,7 +69,11 @@ def cloc_info(repo):
 def get_info(repo):
     logging.debug('Retriving information about the repository')
     commits = list(repo.iter_commits())
-    n_commits = len(commits)
+    n_commits = 0
+    contrib = set()
+    for c in commits:
+        contrib.add(c.author)
+        n_commits = n_commits + 1
     active = repo.active_branch
     # call cloc
     nfiles, languages = cloc_info(repo)
@@ -90,6 +94,7 @@ def get_info(repo):
     return {'commits': n_commits,
             'files': nfiles,
             'languages': languages,
+            'contributors': len(contrib), 
             'active_branch': active.name,
             'active_period':  int((last_commit - first_commit)/86400),
             'initial_commit': first_commit_dic,

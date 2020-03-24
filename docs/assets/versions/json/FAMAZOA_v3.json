@@ -65,7 +65,8 @@
                 "date": "09-11-2019",
                 "timestamp": 1573327254,
                 "hash": "6dff11af12079bc86e77efc64568f3a39169eff1"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 1166,
@@ -147,7 +148,8 @@
                 "date": "09-11-2019",
                 "timestamp": 1573327559,
                 "hash": "889b596faf2437c2c6bf47fd6c6246ff3b22e22d"
-            }
+            },
+            "contributors": 82
         },
         {
             "commits": 788,
@@ -239,7 +241,8 @@
                 "date": "22-10-2019",
                 "timestamp": 1571729664,
                 "hash": "f9129dd7b59b4b3119805a49c21315e1f5a5e336"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 648,
@@ -306,7 +309,8 @@
                 "date": "07-11-2019",
                 "timestamp": 1573157788,
                 "hash": "ee8513bd99ee04576005d4d8c4660b0c2a43cea2"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 1070,
@@ -393,7 +397,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574362942,
                 "hash": "bba23c3c90cee3021d9143375d08b9e0c4c95395"
-            }
+            },
+            "contributors": 25
         },
         {
             "commits": 178,
@@ -465,7 +470,8 @@
                 "date": "29-10-2019",
                 "timestamp": 1572378797,
                 "hash": "c5ebb57a99637d698d70808b5bfe4a5031315c01"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 1565,
@@ -537,7 +543,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574433524,
                 "hash": "99bd38f427f2bcf8ef254abb117727a2a4902d19"
-            }
+            },
+            "contributors": 31
         },
         {
             "commits": 208,
@@ -614,7 +621,8 @@
                 "date": "15-05-2018",
                 "timestamp": 1526358240,
                 "hash": "166d9177800c612d670eb6f54135b17285024f25"
-            }
+            },
+            "contributors": 18
         },
         {
             "commits": 1365,
@@ -686,7 +694,8 @@
                 "date": "26-09-2019",
                 "timestamp": 1569499918,
                 "hash": "91e4a9b46d155a45cb6d8f504824846f4b9a406f"
-            }
+            },
+            "contributors": 78
         },
         {
             "commits": 188,
@@ -758,7 +767,8 @@
                 "date": "20-10-2019",
                 "timestamp": 1571564970,
                 "hash": "aacbff2774f3d4cebab2c08e202b4a16e111c9bb"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 1319,
@@ -830,7 +840,8 @@
                 "date": "05-09-2019",
                 "timestamp": 1567725553,
                 "hash": "0885fcea494d49f2a619d8c037adbcf84a1b55e3"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 21475,
@@ -927,7 +938,8 @@
                 "date": "16-11-2019",
                 "timestamp": 1573916847,
                 "hash": "3b24173397f6d77a5bdd9ef2e40cf8ff7c67efc9"
-            }
+            },
+            "contributors": 262
         },
         {
             "commits": 8034,
@@ -1019,7 +1031,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574703302,
                 "hash": "7fc46b4e5e31ee880470694deeba341fb55cb1f7"
-            }
+            },
+            "contributors": 312
         },
         {
             "commits": 162,
@@ -1091,7 +1104,8 @@
                 "date": "07-02-2018",
                 "timestamp": 1517962315,
                 "hash": "4b90d474b147eb2144b6a0a90961e84710944554"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 42,
@@ -1143,7 +1157,8 @@
                 "date": "10-11-2017",
                 "timestamp": 1510324747,
                 "hash": "5c420703ad51681bdb76fd37d7a7646ec32f0edd"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 16,
@@ -1195,7 +1210,8 @@
                 "date": "01-11-2017",
                 "timestamp": 1509550943,
                 "hash": "b59041001704ec477599a98261d28292c181b23b"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 726,
@@ -1262,7 +1278,8 @@
                 "date": "15-04-2017",
                 "timestamp": 1492260881,
                 "hash": "2b6f9def5c20cf6b4d818b5050edf9f767da9c9e"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 884,
@@ -1334,7 +1351,8 @@
                 "date": "06-11-2019",
                 "timestamp": 1573002621,
                 "hash": "f063cab2f3923e764749f67e34ae7f0ba864931f"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 184,
@@ -1411,7 +1429,8 @@
                 "date": "18-02-2018",
                 "timestamp": 1518961690,
                 "hash": "53ad9a80df926ae93037f14a51fc4d7b6bc66e83"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 3822,
@@ -1483,7 +1502,8 @@
                 "date": "10-06-2019",
                 "timestamp": 1560190623,
                 "hash": "dc2dbc2e8db793423c9b1dfff8d5eac38fa43672"
-            }
+            },
+            "contributors": 31
         },
         {
             "commits": 5095,
@@ -1560,7 +1580,8 @@
                 "date": "23-10-2019",
                 "timestamp": 1571842501,
                 "hash": "f832d59cb2130e5c058f5d9e9de5ff961d5d3380"
-            }
+            },
+            "contributors": 118
         },
         {
             "commits": 372,
@@ -1622,7 +1643,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328311,
                 "hash": "bf55d61fb23caac7c643a9b824f29a619ba6c7af"
-            }
+            },
+            "contributors": 28
         },
         {
             "commits": 420,
@@ -1684,7 +1706,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328281,
                 "hash": "33f06c0ec4eae1eeb501a46ea0d1afb87b59a7c0"
-            }
+            },
+            "contributors": 33
         },
         {
             "commits": 1535,
@@ -1751,7 +1774,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574441648,
                 "hash": "3198e19bc682b4d43e63d4d32e7cf910831c60b0"
-            }
+            },
+            "contributors": 45
         },
         {
             "commits": 626,
@@ -1818,7 +1842,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328262,
                 "hash": "3344a71dbb909917cf3abffaaa4d00528a0f33d6"
-            }
+            },
+            "contributors": 45
         },
         {
             "commits": 1264,
@@ -1885,7 +1910,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328381,
                 "hash": "dadf958a1bd0f6febcc16d8035dfecfe58977df1"
-            }
+            },
+            "contributors": 57
         },
         {
             "commits": 229,
@@ -1947,7 +1973,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328369,
                 "hash": "24e70a32fb1e1bef37615a966e333195b0157a70"
-            }
+            },
+            "contributors": 24
         },
         {
             "commits": 344,
@@ -2024,7 +2051,8 @@
                 "date": "17-11-2019",
                 "timestamp": 1573999869,
                 "hash": "d0f348a3aad76698938729eac1af5d396f78ca25"
-            }
+            },
+            "contributors": 42
         },
         {
             "commits": 333,
@@ -2106,7 +2134,8 @@
                 "date": "15-10-2019",
                 "timestamp": 1571153576,
                 "hash": "c35b98c28c52208a351ee950f655c253322c2a1e"
-            }
+            },
+            "contributors": 36
         },
         {
             "commits": 51,
@@ -2173,7 +2202,8 @@
                 "date": "09-04-2019",
                 "timestamp": 1554805046,
                 "hash": "fa8c4537815a6348bf2484455d6f2ffd81359468"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 2904,
@@ -2255,7 +2285,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574240070,
                 "hash": "78cf31881a3fe02d1b9224052d98e19bc13c807f"
-            }
+            },
+            "contributors": 29
         },
         {
             "commits": 191,
@@ -2317,7 +2348,8 @@
                 "date": "05-08-2018",
                 "timestamp": 1533468300,
                 "hash": "e2beea6c8c89d26f71dfa56e617148c0354583f5"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 288,
@@ -2409,7 +2441,8 @@
                 "date": "19-11-2019",
                 "timestamp": 1574186725,
                 "hash": "f6e5d9e9967e194ad8c1888f5bb4fc740be432fb"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 802,
@@ -2496,7 +2529,8 @@
                 "date": "18-01-2019",
                 "timestamp": 1547836390,
                 "hash": "361d4329c59bd8bc3bfa8d73d2ba7fcc473e287d"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 612,
@@ -2583,7 +2617,8 @@
                 "date": "12-10-2019",
                 "timestamp": 1570901815,
                 "hash": "3e96ac207e69ced1397edadacc986c8f530c0e27"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 287,
@@ -2665,7 +2700,8 @@
                 "date": "11-03-2019",
                 "timestamp": 1552324014,
                 "hash": "ef9c50aed3aab8d733a725c2aeb539cba7d3880e"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 629,
@@ -2732,7 +2768,8 @@
                 "date": "14-11-2019",
                 "timestamp": 1573758041,
                 "hash": "6bee79e9c2d0fd476aaa12b10eff302d224733d2"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 652,
@@ -2829,7 +2866,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328121,
                 "hash": "788520a315e06aaf0d61abfe973fad51c93e0e35"
-            }
+            },
+            "contributors": 27
         },
         {
             "commits": 2349,
@@ -2941,7 +2979,8 @@
                 "date": "21-02-2018",
                 "timestamp": 1519250130,
                 "hash": "6cb42e7e245f343294f848221d9228fcd0682817"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 937,
@@ -3018,7 +3057,8 @@
                 "date": "16-10-2019",
                 "timestamp": 1571247233,
                 "hash": "43c667bd82d61ccf7f2cbd9d925bf41d87a592b0"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1515,
@@ -3095,7 +3135,8 @@
                 "date": "19-11-2019",
                 "timestamp": 1574125036,
                 "hash": "e902ffe783716eaf234eeb6ca572a98885d35d78"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 690,
@@ -3162,7 +3203,8 @@
                 "date": "20-10-2019",
                 "timestamp": 1571591831,
                 "hash": "e53a41e3bc78820a381116de3ed6e64a9eb29814"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 398,
@@ -3239,7 +3281,8 @@
                 "date": "13-10-2019",
                 "timestamp": 1570985570,
                 "hash": "224894b7b3096e80dc8102a4c400b96835d6bf0f"
-            }
+            },
+            "contributors": 23
         },
         {
             "commits": 624,
@@ -3306,7 +3349,8 @@
                 "date": "13-10-2019",
                 "timestamp": 1571008281,
                 "hash": "0426320548e276b027ff21db7eced07e299a82f4"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 70,
@@ -3383,7 +3427,8 @@
                 "date": "16-08-2019",
                 "timestamp": 1565987723,
                 "hash": "8bd79cedee7e803707ccb4e49bce882fb1f78cc4"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 330,
@@ -3450,7 +3495,8 @@
                 "date": "03-11-2019",
                 "timestamp": 1572793844,
                 "hash": "54b0ac654f8b25507f10407546304680652b6a6e"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 867,
@@ -3537,7 +3583,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574771108,
                 "hash": "a01616ee8c777c8e432d3ab6badf9c555d84ea40"
-            }
+            },
+            "contributors": 27
         },
         {
             "commits": 797,
@@ -3609,7 +3656,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574564517,
                 "hash": "bf03fcc60eba320fdc0f0bdf963c76f5aadeaf16"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 453,
@@ -3701,7 +3749,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574721890,
                 "hash": "1cd74b61221a5b2175b35278596f7f69ca2d5f4c"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1163,
@@ -3783,7 +3832,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574717861,
                 "hash": "010b71555ab8ca85ef00dcaf22080f7216bfbc48"
-            }
+            },
+            "contributors": 60
         },
         {
             "commits": 1176,
@@ -3860,7 +3910,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574250017,
                 "hash": "6c3589492e27993c7032879dd5e9b9e164f70c1f"
-            }
+            },
+            "contributors": 53
         },
         {
             "commits": 185,
@@ -3927,7 +3978,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574745369,
                 "hash": "6c421260a7c9d52654567bbdcdd0c0783d7c3de1"
-            }
+            },
+            "contributors": 12
         },
         {
             "commits": 535,
@@ -4004,7 +4056,8 @@
                 "date": "24-06-2018",
                 "timestamp": 1529856186,
                 "hash": "224d9e381e5cac002622db24ba85e99876d029b8"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 216,
@@ -4076,7 +4129,8 @@
                 "date": "17-08-2019",
                 "timestamp": 1566036519,
                 "hash": "14c8181ec0a4831392d5a4293abd997fe03ed48a"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 1315,
@@ -4193,7 +4247,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574040724,
                 "hash": "47dc26fea06ec9da5e6684f6da34b5491d551993"
-            }
+            },
+            "contributors": 33
         },
         {
             "commits": 15,
@@ -4250,7 +4305,8 @@
                 "date": "11-04-2019",
                 "timestamp": 1555021300,
                 "hash": "a6cf5a19ea82b1e25f5cb5017e73634949409754"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 28,
@@ -4332,7 +4388,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574073234,
                 "hash": "6d25297d947f79097ea6d86a6a17f227bc408dd5"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 1532,
@@ -4414,7 +4471,8 @@
                 "date": "03-11-2019",
                 "timestamp": 1572785553,
                 "hash": "80ea9001b3a6105d7dd7636c62b4ff25e972979c"
-            }
+            },
+            "contributors": 83
         },
         {
             "commits": 185,
@@ -4506,7 +4564,8 @@
                 "date": "12-05-2018",
                 "timestamp": 1526136431,
                 "hash": "30bd19c1a743b2d2f5778c1c32a65937a7e357df"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 697,
@@ -4578,7 +4637,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574504631,
                 "hash": "e29cd78cea9231428195666074cdc59e94395bbe"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 8771,
@@ -4655,7 +4715,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574786556,
                 "hash": "9c11dbae6ce8800e83d3be1a8ce30b9eeb187be3"
-            }
+            },
+            "contributors": 308
         },
         {
             "commits": 61,
@@ -4722,7 +4783,8 @@
                 "date": "21-04-2019",
                 "timestamp": 1555831907,
                 "hash": "af23287f3f913f8735c180e0d92f36cbb5e27e49"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 56,
@@ -4799,7 +4861,8 @@
                 "date": "03-08-2018",
                 "timestamp": 1533301556,
                 "hash": "ada4d5d4ad7a4335e27c1ec1040bb38328e5115a"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 174,
@@ -4866,7 +4929,8 @@
                 "date": "05-11-2018",
                 "timestamp": 1541424154,
                 "hash": "2c4fafba896bf106fe07a7609ad93ffd909254bb"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 99,
@@ -4933,7 +4997,8 @@
                 "date": "31-07-2019",
                 "timestamp": 1564608298,
                 "hash": "235e58ff31e3e702da5723251c59bce396e4b3e8"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1598,
@@ -5005,7 +5070,8 @@
                 "date": "14-11-2019",
                 "timestamp": 1573702350,
                 "hash": "fa45294f21ff43096c9c47646e27f1a668951343"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 342,
@@ -5067,7 +5133,8 @@
                 "date": "30-11-2018",
                 "timestamp": 1543613909,
                 "hash": "2f4669e25f355836d78c745101e49a03a898a1f4"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 2020,
@@ -5129,7 +5196,8 @@
                 "date": "04-06-2018",
                 "timestamp": 1528141466,
                 "hash": "6364fbe5d2a8482064dbe11567867053d9816499"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 715,
@@ -5211,7 +5279,8 @@
                 "date": "11-09-2019",
                 "timestamp": 1568178383,
                 "hash": "b81da5ed0cd10b8731c00692fda3be39071ec85c"
-            }
+            },
+            "contributors": 58
         },
         {
             "commits": 354,
@@ -5278,7 +5347,8 @@
                 "date": "08-10-2019",
                 "timestamp": 1570548212,
                 "hash": "37f33a7dc69dc8e3ca487a62a463663474476764"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 4258,
@@ -5370,7 +5440,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574764898,
                 "hash": "fb37647149a6a425f359b22633789b183e1bbbfe"
-            }
+            },
+            "contributors": 22
         },
         {
             "commits": 34,
@@ -5442,7 +5513,8 @@
                 "date": "16-11-2018",
                 "timestamp": 1542364484,
                 "hash": "f4f4eabf9b7e439a8b60795c326b7e1c2d5bb7f8"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 2570,
@@ -5549,7 +5621,8 @@
                 "date": "13-11-2019",
                 "timestamp": 1573657148,
                 "hash": "6c58c74d1c798113e7efbc22b2ee7460472ef61b"
-            }
+            },
+            "contributors": 108
         },
         {
             "commits": 3389,
@@ -5636,7 +5709,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574255076,
                 "hash": "7acee050b992a96791854db1c7a6de1339321a19"
-            }
+            },
+            "contributors": 93
         },
         {
             "commits": 176,
@@ -5708,7 +5782,8 @@
                 "date": "21-11-2017",
                 "timestamp": 1511229289,
                 "hash": "ef0a681c8132d53aa47cb6e247b25510eaa2a57e"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 1982,
@@ -5800,7 +5875,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574738021,
                 "hash": "15cf7ae3291770d4ca5bc2ce7873942a87938ae0"
-            }
+            },
+            "contributors": 27
         },
         {
             "commits": 1867,
@@ -5872,7 +5948,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574520276,
                 "hash": "8f798ec963f764506707d8774934ca46d93e0c81"
-            }
+            },
+            "contributors": 31
         },
         {
             "commits": 57898,
@@ -5959,7 +6036,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574715614,
                 "hash": "a36e123f6fd66fba17f1a8c66fad116820fde325"
-            }
+            },
+            "contributors": 1112
         },
         {
             "commits": 249,
@@ -6031,7 +6109,8 @@
                 "date": "13-10-2019",
                 "timestamp": 1570972845,
                 "hash": "7580e81727db0791a461f85e196f6f0011730934"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 368,
@@ -6098,7 +6177,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574607146,
                 "hash": "7189800c0c75543bc3551df46f408e0669446e87"
-            }
+            },
+            "contributors": 27
         },
         {
             "commits": 568,
@@ -6175,7 +6255,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574220675,
                 "hash": "551bbd95b6e677d106d0b0ab51a11493c6f57dc1"
-            }
+            },
+            "contributors": 113
         },
         {
             "commits": 2094,
@@ -6247,7 +6328,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574393230,
                 "hash": "ca8b263f0980d05d51c2c9e41150df9a75bc51b2"
-            }
+            },
+            "contributors": 59
         },
         {
             "commits": 958,
@@ -6304,7 +6386,8 @@
                 "date": "07-09-2019",
                 "timestamp": 1567898616,
                 "hash": "b1ab7a90df0871fe7f575c6df460c1d09357c15b"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 1068,
@@ -6371,7 +6454,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574071476,
                 "hash": "ef56624aa1ffb409ce0a1730ae8302e274237248"
-            }
+            },
+            "contributors": 138
         },
         {
             "commits": 2271,
@@ -6468,7 +6552,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574750707,
                 "hash": "f65bb482c07a8b9fd8f018f8902fc470c6635986"
-            }
+            },
+            "contributors": 29
         },
         {
             "commits": 53,
@@ -6535,7 +6620,8 @@
                 "date": "29-09-2017",
                 "timestamp": 1506681012,
                 "hash": "da7d3aeb95e8213f476f2b9cbe795f28efa6ee5c"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 28,
@@ -6587,7 +6673,8 @@
                 "date": "28-09-2017",
                 "timestamp": 1506614145,
                 "hash": "9322a6d864d6620d0ff79d4da02bd80a6a589825"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 277,
@@ -6659,7 +6746,8 @@
                 "date": "18-04-2019",
                 "timestamp": 1555588479,
                 "hash": "1e6bfc007c1b977bf992d5a4d9c83088093afba8"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 184,
@@ -6731,7 +6819,8 @@
                 "date": "12-03-2018",
                 "timestamp": 1520885868,
                 "hash": "b0e5ec251155920876f140a0fb1358b4edc61f78"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 199,
@@ -6818,7 +6907,8 @@
                 "date": "10-02-2019",
                 "timestamp": 1549812430,
                 "hash": "0289bd82a4b587e1e765c49b1b96e8c6271de85b"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 825,
@@ -6895,7 +6985,8 @@
                 "date": "16-11-2019",
                 "timestamp": 1573862834,
                 "hash": "80809369d1e63ac15e19b7f8455af3078262e832"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1781,
@@ -6987,7 +7078,8 @@
                 "date": "20-06-2018",
                 "timestamp": 1529484031,
                 "hash": "c160a0af470cbcb73f1b0056ee4003ce365f7318"
-            }
+            },
+            "contributors": 111
         },
         {
             "commits": 22,
@@ -7044,7 +7136,8 @@
                 "date": "15-10-2019",
                 "timestamp": 1571167884,
                 "hash": "e0352162dd2174a493cb047cd935e79bd53bac94"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1972,
@@ -7121,7 +7214,8 @@
                 "date": "03-10-2019",
                 "timestamp": 1570125501,
                 "hash": "2dad358c96239ffee0ed90e8343829c73d0649b9"
-            }
+            },
+            "contributors": 154
         },
         {
             "commits": 753,
@@ -7208,7 +7302,8 @@
                 "date": "29-10-2019",
                 "timestamp": 1572334311,
                 "hash": "900fa4b67ec6040fb2f27e78e088af77f3222676"
-            }
+            },
+            "contributors": 14
         },
         {
             "commits": 7837,
@@ -7300,7 +7395,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574775544,
                 "hash": "25a3b69ea5aa06d6907e8ebfe2e530750e4bdef6"
-            }
+            },
+            "contributors": 304
         },
         {
             "commits": 35,
@@ -7362,7 +7458,8 @@
                 "date": "19-02-2019",
                 "timestamp": 1550581600,
                 "hash": "46f1e5bb485c224802700dd600b1f0bd2aa9c95b"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 1242,
@@ -7429,7 +7526,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574393528,
                 "hash": "6368feec96720c12f6752d7955104b4e68a88454"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 94,
@@ -7491,7 +7589,8 @@
                 "date": "09-09-2019",
                 "timestamp": 1568012224,
                 "hash": "2e96e3c1046d76441d90435b89277896b150dfd0"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 91,
@@ -7558,7 +7657,8 @@
                 "date": "05-08-2018",
                 "timestamp": 1533513093,
                 "hash": "606e095bfd78e919e52689c169c2d5ae779cf153"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 916,
@@ -7640,7 +7740,8 @@
                 "date": "10-10-2019",
                 "timestamp": 1570679643,
                 "hash": "5b435e745ecd374b86bdb9cec8fc1d9296bf605e"
-            }
+            },
+            "contributors": 34
         },
         {
             "commits": 26,
@@ -7712,7 +7813,8 @@
                 "date": "19-08-2019",
                 "timestamp": 1566199004,
                 "hash": "2d4aa944366c106ce7ee1b6753c6396304d6c0a0"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 1107,
@@ -7799,7 +7901,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574336956,
                 "hash": "3096eb593e1f4db6f5b8fddda10bede7758f9a0c"
-            }
+            },
+            "contributors": 21
         },
         {
             "commits": 1221,
@@ -7876,7 +7979,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574719118,
                 "hash": "40fd4120645c4ecbb7d727de0fb8c2326efda9dc"
-            }
+            },
+            "contributors": 24
         },
         {
             "commits": 178,
@@ -7953,7 +8057,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574607022,
                 "hash": "e1956028d35239421415a06569ee1301bf7c3267"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 17,
@@ -8020,7 +8125,8 @@
                 "date": "27-11-2017",
                 "timestamp": 1511776975,
                 "hash": "c2ff8bf2d71c8f0e70eaee8185449663a8011496"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 84,
@@ -8087,7 +8193,8 @@
                 "date": "25-02-2017",
                 "timestamp": 1488046572,
                 "hash": "17d5d79d789ffa054e49dac8ae565f8083b5a1b9"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 236,
@@ -8149,7 +8256,8 @@
                 "date": "07-04-2019",
                 "timestamp": 1554597599,
                 "hash": "672f1496fd5dc71225e298a5d04ac2296f44aef9"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 123,
@@ -8221,7 +8329,8 @@
                 "date": "01-11-2019",
                 "timestamp": 1572592321,
                 "hash": "8cb53193229c05028728d3d29e1e1e89a7121f6b"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 391,
@@ -8308,7 +8417,8 @@
                 "date": "08-01-2019",
                 "timestamp": 1546950131,
                 "hash": "bc0e75feb937e7a462191577abd5b40624959228"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 109,
@@ -8390,7 +8500,8 @@
                 "date": "23-09-2017",
                 "timestamp": 1506195754,
                 "hash": "1ae50a46c05d549f17a5bda1ac440ee46982dd4e"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 31,
@@ -8452,7 +8563,8 @@
                 "date": "30-06-2017",
                 "timestamp": 1498809072,
                 "hash": "4d8c4df7c3d87913d91637df9e1e8af6950647e0"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 7,
@@ -8514,7 +8626,8 @@
                 "date": "08-01-2017",
                 "timestamp": 1483848155,
                 "hash": "5db7673e848db323b6a78eb501d7cf4d65be123b"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 33,
@@ -8586,7 +8699,8 @@
                 "date": "02-05-2019",
                 "timestamp": 1556810237,
                 "hash": "86d41fa6085314f618eb84ce22b7a7085e808887"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 197,
@@ -8653,7 +8767,8 @@
                 "date": "01-02-2018",
                 "timestamp": 1517468818,
                 "hash": "40943b4145691bbad8111c83d8e71f466e1b76d8"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 125,
@@ -8730,7 +8845,8 @@
                 "date": "23-09-2017",
                 "timestamp": 1506167453,
                 "hash": "57aac1f6cadb58383fef386b92f0e9b29e41639a"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 717,
@@ -8797,7 +8913,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574235584,
                 "hash": "797be7d9aa8a3b2a38f033020878c432c9a7fd99"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 28,
@@ -8864,7 +8981,8 @@
                 "date": "02-10-2017",
                 "timestamp": 1506958518,
                 "hash": "65587b48c2a52404632d9d3c124e8a875fd2752e"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 30,
@@ -8931,7 +9049,8 @@
                 "date": "21-04-2019",
                 "timestamp": 1555841434,
                 "hash": "0196d34d71e11d0466e8e08e5ceab788e9d7fbbb"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 24,
@@ -8993,7 +9112,8 @@
                 "date": "20-11-2017",
                 "timestamp": 1511157904,
                 "hash": "53a6a821b28c79a2e575f1522d21381ebafbe206"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 50,
@@ -9060,7 +9180,8 @@
                 "date": "16-11-2017",
                 "timestamp": 1510837692,
                 "hash": "a0816e4c0f9077c4a468c6191f19b5d224191b01"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 338,
@@ -9152,7 +9273,8 @@
                 "date": "08-12-2017",
                 "timestamp": 1512733257,
                 "hash": "b07943da4dd6f4fdacb1d7751f1332e4fd97eb3f"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 30,
@@ -9214,7 +9336,8 @@
                 "date": "14-08-2018",
                 "timestamp": 1534279637,
                 "hash": "1b4ad8d026018e74f63072364665ce8e8154a6f0"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 198,
@@ -9286,7 +9409,8 @@
                 "date": "23-09-2019",
                 "timestamp": 1569256165,
                 "hash": "f4334e17472e8bff0c89e61a1b6ef59e15f4230c"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 305,
@@ -9358,7 +9482,8 @@
                 "date": "28-10-2017",
                 "timestamp": 1509195522,
                 "hash": "2022622c6755a6c3ec2f81194180da34a937a3cd"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 835,
@@ -9435,7 +9560,8 @@
                 "date": "21-07-2019",
                 "timestamp": 1563729766,
                 "hash": "7833e47a4309c9499856b6acf9dba38500954330"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 85,
@@ -9512,7 +9638,8 @@
                 "date": "14-07-2017",
                 "timestamp": 1500064634,
                 "hash": "40b622f40e7ac8eae87be2beb4acbf1e9472f567"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 30,
@@ -9599,7 +9726,8 @@
                 "date": "31-10-2017",
                 "timestamp": 1509419552,
                 "hash": "f53ab5ec88c7c44f19ef0b05d7b90b56686356fc"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 184,
@@ -9681,7 +9809,8 @@
                 "date": "16-10-2019",
                 "timestamp": 1571218242,
                 "hash": "6f152ad9d479f179fbca0a9d2df9ee54a9e948e4"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 180,
@@ -9738,7 +9867,8 @@
                 "date": "14-12-2017",
                 "timestamp": 1513273484,
                 "hash": "293fe6f6bfd18189d90029fcd688909b92ba91b0"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 68,
@@ -9815,7 +9945,8 @@
                 "date": "24-10-2019",
                 "timestamp": 1571912929,
                 "hash": "7f6d61f96d590113bc9d574233f6382365354211"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 508,
@@ -9892,7 +10023,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574226808,
                 "hash": "2d694a07264b03e7fa68173e9b7506708a6fff57"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 28,
@@ -9959,7 +10091,8 @@
                 "date": "10-05-2018",
                 "timestamp": 1525948445,
                 "hash": "abd99311d01d19c5d11f44e9f6acb32320a5057c"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 68,
@@ -10026,7 +10159,8 @@
                 "date": "08-10-2017",
                 "timestamp": 1507489385,
                 "hash": "ca0d4679251d8b78a9f4b562e4279f6bed733b40"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 111,
@@ -10098,7 +10232,8 @@
                 "date": "09-10-2018",
                 "timestamp": 1539043853,
                 "hash": "011bc920ecfa0f41b32bd2829f0d248c4b38d05f"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 340,
@@ -10180,7 +10315,8 @@
                 "date": "09-01-2018",
                 "timestamp": 1515505654,
                 "hash": "26101782b3998d079d7831e39ab8cd8c775a119e"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 10,
@@ -10247,7 +10383,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574533803,
                 "hash": "5ce822ae6c1b38961765d7fda6a539b9fe465d1c"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 33,
@@ -10294,7 +10431,8 @@
                 "date": "04-03-2018",
                 "timestamp": 1520166542,
                 "hash": "68afe448c25954474e8702d375c2530b1a3c2dd7"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 211,
@@ -10361,7 +10499,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574459322,
                 "hash": "7a25859a72b2e45e3a015ca4087b9d346f59b4f9"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 39,
@@ -10423,7 +10562,8 @@
                 "date": "25-10-2017",
                 "timestamp": 1508930436,
                 "hash": "3fc59268df3e5d8fa4b8dc3c6297a56b3b2e5ff7"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 35,
@@ -10500,7 +10640,8 @@
                 "date": "26-04-2018",
                 "timestamp": 1524741422,
                 "hash": "4730de3659b203c858754a1f1b24901fadde08e4"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 45,
@@ -10572,7 +10713,8 @@
                 "date": "16-05-2017",
                 "timestamp": 1494907315,
                 "hash": "11b12150dd366750f7c4093e4899cb08f64c86a7"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 13,
@@ -10634,7 +10776,8 @@
                 "date": "05-03-2018",
                 "timestamp": 1520216195,
                 "hash": "21765bb4a8328b2c8f7e3b520fee39f405f50142"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 66,
@@ -10706,7 +10849,8 @@
                 "date": "02-09-2017",
                 "timestamp": 1504396239,
                 "hash": "e6d1b0b3335924b64eb048b501bf2d8f8c7144bc"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 80,
@@ -10788,7 +10932,8 @@
                 "date": "23-10-2019",
                 "timestamp": 1571816626,
                 "hash": "6945cd8f6dca6032551e1b54aaf7d719cdc37dde"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 21,
@@ -10855,7 +11000,8 @@
                 "date": "01-02-2018",
                 "timestamp": 1517494279,
                 "hash": "cd1098c08200edcf94823cc9a19f955c8b131e29"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 1054,
@@ -10902,7 +11048,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574439980,
                 "hash": "4b0fd3390aa65a23287523a89d7ee5dffb84f1c1"
-            }
+            },
+            "contributors": 63
         },
         {
             "commits": 2112,
@@ -10979,7 +11126,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574608270,
                 "hash": "2eb3f5f90ab63a8f6007f3f7fdfda479bef5ffa9"
-            }
+            },
+            "contributors": 104
         },
         {
             "commits": 206,
@@ -11066,7 +11214,8 @@
                 "date": "16-08-2019",
                 "timestamp": 1565987542,
                 "hash": "5ba343e95a16aaa84d130dca86b74b8770f00d4f"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 38,
@@ -11138,7 +11287,8 @@
                 "date": "12-08-2018",
                 "timestamp": 1534098370,
                 "hash": "4bf2ec996a0b8e8a2079a7b234832641061bedc2"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 568,
@@ -11210,7 +11360,8 @@
                 "date": "07-11-2019",
                 "timestamp": 1573127034,
                 "hash": "0e71575c190fff966098d958de25f2615c1f50a6"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 506,
@@ -11272,7 +11423,8 @@
                 "date": "04-08-2018",
                 "timestamp": 1533383256,
                 "hash": "e0d044cf40f8c5a56f95341bc2a64e3492c3b0cc"
-            }
+            },
+            "contributors": 20
         },
         {
             "commits": 239,
@@ -11339,7 +11491,8 @@
                 "date": "06-04-2019",
                 "timestamp": 1554534233,
                 "hash": "9a1e976e4f796f14efa3bc240e9acba53b51161c"
-            }
+            },
+            "contributors": 23
         },
         {
             "commits": 140,
@@ -11406,7 +11559,8 @@
                 "date": "22-08-2019",
                 "timestamp": 1566442333,
                 "hash": "a5dd5dd01b27d71b73df44a547882d24ae504050"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 51,
@@ -11458,7 +11612,8 @@
                 "date": "13-01-2019",
                 "timestamp": 1547343153,
                 "hash": "d5c95d98e2a1935fe00ec0f3c126a4bfd8df6b6d"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 330,
@@ -11530,7 +11685,8 @@
                 "date": "01-10-2018",
                 "timestamp": 1538398015,
                 "hash": "cb145824f9e06cd17266502a5e85d8a9fa276bb0"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 373,
@@ -11592,7 +11748,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574720152,
                 "hash": "5e6f1b571cc5574d90c5ce27927c668810c67d92"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 339,
@@ -11654,7 +11811,8 @@
                 "date": "24-09-2018",
                 "timestamp": 1537814227,
                 "hash": "d8688cdb280290fa0c8e32ba6eb1164c020563fb"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 15,
@@ -11721,7 +11879,8 @@
                 "date": "24-07-2018",
                 "timestamp": 1532443961,
                 "hash": "3f830f49f640c3e2ace85880f833cb015c358920"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 141,
@@ -11778,7 +11937,8 @@
                 "date": "01-10-2019",
                 "timestamp": 1569934596,
                 "hash": "c5841591e2418bd5465ec347cfab2af41faf43d5"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 1117,
@@ -11850,7 +12010,8 @@
                 "date": "20-08-2019",
                 "timestamp": 1566334023,
                 "hash": "0514806364bdf89cb791db27351754f636859461"
-            }
+            },
+            "contributors": 20
         },
         {
             "commits": 568,
@@ -11927,7 +12088,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574220675,
                 "hash": "551bbd95b6e677d106d0b0ab51a11493c6f57dc1"
-            }
+            },
+            "contributors": 113
         },
         {
             "commits": 226,
@@ -11994,7 +12156,8 @@
                 "date": "07-08-2019",
                 "timestamp": 1565139365,
                 "hash": "08bb43c920b6b13ead59dc6fc6e35420e1be6418"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 991,
@@ -12071,7 +12234,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574417304,
                 "hash": "07c26d240869c62e474329f92cd693af594e2c5c"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 48,
@@ -12133,7 +12297,8 @@
                 "date": "29-09-2019",
                 "timestamp": 1569786639,
                 "hash": "4dd2104b2e48cba9a6ae841041eae165578e41c2"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 105,
@@ -12190,7 +12355,8 @@
                 "date": "21-04-2019",
                 "timestamp": 1555868029,
                 "hash": "5b336a4f185decb334bc6233909d1c18bcee3480"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 7411,
@@ -12267,7 +12433,8 @@
                 "date": "31-10-2018",
                 "timestamp": 1541001847,
                 "hash": "9308995c876857b0cf04181edba23e669c540130"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 99,
@@ -12334,7 +12501,8 @@
                 "date": "05-11-2019",
                 "timestamp": 1572998318,
                 "hash": "29f3354df8fef754f718433d4604aa121117a9a4"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 28,
@@ -12396,7 +12564,8 @@
                 "date": "20-07-2018",
                 "timestamp": 1532107316,
                 "hash": "49648b65a73a6b19923df57ef4674bdf40152674"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 123,
@@ -12478,7 +12647,8 @@
                 "date": "02-10-2018",
                 "timestamp": 1538468560,
                 "hash": "9495be0229c89d4e13ea9826420257a4fca03999"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 238,
@@ -12555,7 +12725,8 @@
                 "date": "19-12-2017",
                 "timestamp": 1513703681,
                 "hash": "b8f56a2fa09367326b8718d2ebb89d7b62eba03d"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 98,
@@ -12622,7 +12793,8 @@
                 "date": "26-09-2019",
                 "timestamp": 1569492441,
                 "hash": "0f2396fcda127db1efe6d325488dd51bd1ec8d08"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 822,
@@ -12694,7 +12866,8 @@
                 "date": "28-07-2018",
                 "timestamp": 1532777466,
                 "hash": "b677ff242caecf0d4685d71ade56ae9a204727b1"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 410,
@@ -12766,7 +12939,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574111989,
                 "hash": "8fbb3b1fadaae2a40429e2cd78be80bd5adcb1a8"
-            }
+            },
+            "contributors": 17
         },
         {
             "commits": 345,
@@ -12828,7 +13002,8 @@
                 "date": "24-02-2019",
                 "timestamp": 1551040627,
                 "hash": "25ba9088f6d473c90b6e7fb498dd97168646a969"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 1731,
@@ -12915,7 +13090,8 @@
                 "date": "06-07-2019",
                 "timestamp": 1562433299,
                 "hash": "6eb09aff553308f7ecc7bc7ebb161be86fd4cee6"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 414,
@@ -12987,7 +13163,8 @@
                 "date": "02-09-2019",
                 "timestamp": 1567463782,
                 "hash": "c09ee5a8cae3ba6dc66dcdff62d59686d1b3922a"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 234,
@@ -13059,7 +13236,8 @@
                 "date": "06-08-2019",
                 "timestamp": 1565129162,
                 "hash": "90792b7ad86d8e2e01edf1794d8a31e018eadc7f"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 11,
@@ -13121,7 +13299,8 @@
                 "date": "04-10-2018",
                 "timestamp": 1538679510,
                 "hash": "a67afc58412d0cfcf79474f60b4c230a472c1ef3"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 22,
@@ -13183,7 +13362,8 @@
                 "date": "13-04-2017",
                 "timestamp": 1492074035,
                 "hash": "4205693ca71267b2d149380588bb94a334104435"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 1409,
@@ -13255,7 +13435,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574119394,
                 "hash": "40c788f5554227316a0f18332635ec2babe27810"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 49,
@@ -13312,7 +13493,8 @@
                 "date": "09-10-2017",
                 "timestamp": 1507587498,
                 "hash": "02402e06d49903147aa7e88c5dd85686a4320d6d"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 211,
@@ -13369,7 +13551,8 @@
                 "date": "14-12-2017",
                 "timestamp": 1513272333,
                 "hash": "47cd42993db22230931ebfea87ae0e713542d3a3"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 5228,
@@ -13436,7 +13619,8 @@
                 "date": "28-10-2019",
                 "timestamp": 1572223433,
                 "hash": "d5a22fc813ef2ebfdfb96264a5952e81a1e1ba2b"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 828,
@@ -13518,7 +13702,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574376401,
                 "hash": "b6042ed7e8bc52900f9d724183c326a735f38eea"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 91,
@@ -13580,7 +13765,8 @@
                 "date": "11-10-2019",
                 "timestamp": 1570799676,
                 "hash": "08d1f1ca4f254aaeaf3567593496100cf979094d"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 140,
@@ -13677,7 +13863,8 @@
                 "date": "06-04-2018",
                 "timestamp": 1523045033,
                 "hash": "cfbf3982b1fa2496d6b23f37132a0cc09983d586"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 58,
@@ -13744,7 +13931,8 @@
                 "date": "26-11-2018",
                 "timestamp": 1543247481,
                 "hash": "f813a3e18b3feede143116aab4e3cb58455c66bf"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 651,
@@ -13826,7 +14014,8 @@
                 "date": "04-08-2017",
                 "timestamp": 1501875276,
                 "hash": "4f4afed053b6a861b43553cf8b510b5bf69b79b4"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 20,
@@ -13898,7 +14087,8 @@
                 "date": "02-06-2017",
                 "timestamp": 1496443590,
                 "hash": "75b09f7514d169c6b165d5aaa6492e7f61f26080"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 21,
@@ -13960,7 +14150,8 @@
                 "date": "03-03-2019",
                 "timestamp": 1551635972,
                 "hash": "311aa3f6126ce8669b2e1e0fb5ba5bab66e4eaa1"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 1583,
@@ -14037,7 +14228,8 @@
                 "date": "28-12-2018",
                 "timestamp": 1546001912,
                 "hash": "65bfdef38522d98da049d3229bce1062635b7811"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 69,
@@ -14104,7 +14296,8 @@
                 "date": "14-10-2017",
                 "timestamp": 1507951461,
                 "hash": "9d952b2b2850fcc09230f7cad8820e394e62d87f"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 41,
@@ -14171,7 +14364,8 @@
                 "date": "08-12-2017",
                 "timestamp": 1512764787,
                 "hash": "83eba8a32e91742c5b749bf2051e15216cc0f1c5"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 572,
@@ -14233,7 +14427,8 @@
                 "date": "21-12-2017",
                 "timestamp": 1513850925,
                 "hash": "e14d0984c9213285af148d4e42db09c8b25e803b"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 98,
@@ -14300,7 +14495,8 @@
                 "date": "28-12-2017",
                 "timestamp": 1514484001,
                 "hash": "68cdaa0c35aaa653b19516cc219f1a2357f9db79"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 248,
@@ -14372,7 +14568,8 @@
                 "date": "17-10-2019",
                 "timestamp": 1571271276,
                 "hash": "fbe923e2e3d6e4e806920bc3f3122b847e1eddfd"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 111,
@@ -14444,7 +14641,8 @@
                 "date": "07-07-2019",
                 "timestamp": 1562488055,
                 "hash": "3fcb384e3d4dae982667398a1ec74854e44816af"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 115,
@@ -14506,7 +14704,8 @@
                 "date": "19-11-2018",
                 "timestamp": 1542643442,
                 "hash": "67f33af865b6a93ed388da987ceadb2d5968931e"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 359,
@@ -14568,7 +14767,8 @@
                 "date": "24-07-2019",
                 "timestamp": 1563953600,
                 "hash": "398dc27941f70359296f00bb9f9724cc2c999885"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 599,
@@ -14640,7 +14840,8 @@
                 "date": "14-07-2019",
                 "timestamp": 1563063621,
                 "hash": "ef6652df73affaf0a2001f6e8923a63dc26421a4"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 2736,
@@ -14722,7 +14923,8 @@
                 "date": "16-11-2019",
                 "timestamp": 1573937375,
                 "hash": "cb9aa831aff4334ac8890fb7db738e15bb64d011"
-            }
+            },
+            "contributors": 18
         },
         {
             "commits": 1181,
@@ -14804,7 +15006,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574487005,
                 "hash": "d24796c1ff687c299866e96f8e290f4c4f2dc3c4"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 293,
@@ -14876,7 +15079,8 @@
                 "date": "21-05-2019",
                 "timestamp": 1558421130,
                 "hash": "81f975c29264b0882ac874142c896804247934f4"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 1210,
@@ -14973,7 +15177,8 @@
                 "date": "02-07-2019",
                 "timestamp": 1562071582,
                 "hash": "791b8c3b1b6d9aa2f17312790a7e401ddcf070f7"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 694,
@@ -15045,7 +15250,8 @@
                 "date": "15-02-2019",
                 "timestamp": 1550204761,
                 "hash": "2c762dc537c364e7b33b26811ed1116973bad1a3"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 39,
@@ -15097,7 +15303,8 @@
                 "date": "01-08-2019",
                 "timestamp": 1564653342,
                 "hash": "bc0d26791f71b7e0e8bead59f81eb9a74beeb367"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 274,
@@ -15164,7 +15371,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574222044,
                 "hash": "2d85016b788637c82019cde374db93828a798237"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 2171,
@@ -15246,7 +15454,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574629648,
                 "hash": "0ac022dde0bcb8df9638b31aa63a236ae86e4f6b"
-            }
+            },
+            "contributors": 52
         },
         {
             "commits": 718,
@@ -15313,7 +15522,8 @@
                 "date": "04-08-2019",
                 "timestamp": 1564916297,
                 "hash": "27827dd3d0332b28860860980d322039c6147f04"
-            }
+            },
+            "contributors": 14
         },
         {
             "commits": 174,
@@ -15375,7 +15585,8 @@
                 "date": "17-02-2019",
                 "timestamp": 1550412524,
                 "hash": "7df6d763fb2075a9c75e089e72de3a572d3ccfe6"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 35,
@@ -15462,7 +15673,8 @@
                 "date": "16-08-2019",
                 "timestamp": 1565941029,
                 "hash": "03d17d9077c372f4d7cf1d5f48d7036b0a8d1d51"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 34,
@@ -15539,7 +15751,8 @@
                 "date": "15-11-2019",
                 "timestamp": 1573839679,
                 "hash": "c2d7a0d3d09c3f5d1d9fae864d05fa926c6ea5c6"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 718,
@@ -15616,7 +15829,8 @@
                 "date": "23-09-2019",
                 "timestamp": 1569257381,
                 "hash": "76037811aad49b2cd833aac2e3fbdf81271736a1"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 47,
@@ -15683,7 +15897,8 @@
                 "date": "03-07-2019",
                 "timestamp": 1562173837,
                 "hash": "66136bf7b3e173d964dc15729f982293189b2ee2"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 29,
@@ -15750,7 +15965,8 @@
                 "date": "23-12-2018",
                 "timestamp": 1545532584,
                 "hash": "0aa900980f928c7b7bdc175a5265b7fbfb60e7e0"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 2087,
@@ -15812,7 +16028,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574651585,
                 "hash": "439961e69b5a7a3f755c80ce75841b5fe71f7d6d"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 4009,
@@ -15904,7 +16121,8 @@
                 "date": "10-10-2019",
                 "timestamp": 1570744257,
                 "hash": "e69d7a2e3b7d3c4f37cb9242cf5fa8b465380630"
-            }
+            },
+            "contributors": 29
         },
         {
             "commits": 850,
@@ -16001,7 +16219,8 @@
                 "date": "29-04-2019",
                 "timestamp": 1556553492,
                 "hash": "c31688516e45e92ff66641be8dd461a28a166945"
-            }
+            },
+            "contributors": 52
         },
         {
             "commits": 284,
@@ -16073,7 +16292,8 @@
                 "date": "12-05-2019",
                 "timestamp": 1557638379,
                 "hash": "f83b915ba66cf34badfd733ae8f1a7fc89461fd5"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 524,
@@ -16140,7 +16360,8 @@
                 "date": "17-10-2019",
                 "timestamp": 1571324047,
                 "hash": "5f5adc7e720731507540198ee0f70222e7f9dca1"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 130,
@@ -16212,7 +16433,8 @@
                 "date": "19-09-2019",
                 "timestamp": 1568854577,
                 "hash": "2ce4672dd13d755013ad6571d023cdd609a5b9e7"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 205,
@@ -16274,7 +16496,8 @@
                 "date": "10-11-2018",
                 "timestamp": 1541820605,
                 "hash": "20041d0cec421ec90c376d4259efdca8caee3bdd"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 662,
@@ -16351,7 +16574,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574612398,
                 "hash": "dff5706ee3d485b06bf967474ffa95b9a9e832e5"
-            }
+            },
+            "contributors": 82
         },
         {
             "commits": 547,
@@ -16423,7 +16647,8 @@
                 "date": "17-11-2019",
                 "timestamp": 1574030281,
                 "hash": "37baf93fa959638231d80716d9be5f44f62d68f7"
-            }
+            },
+            "contributors": 31
         },
         {
             "commits": 211,
@@ -16495,7 +16720,8 @@
                 "date": "10-11-2019",
                 "timestamp": 1573404029,
                 "hash": "b7d8f7ae30d95d484aafb2e32700030b6af9fcb0"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 80,
@@ -16552,7 +16778,8 @@
                 "date": "25-02-2019",
                 "timestamp": 1551106052,
                 "hash": "145a187d6488da79f768696814a5df1ce0fa95bf"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 516,
@@ -16634,7 +16861,8 @@
                 "date": "22-06-2019",
                 "timestamp": 1561203118,
                 "hash": "bd994b87f320274af9249ee52ed455b6b203199d"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 54,
@@ -16696,7 +16924,8 @@
                 "date": "25-01-2019",
                 "timestamp": 1548384429,
                 "hash": "0e3fe6fbd8a9143a61dd8aa66dc7d3a1bc661ce9"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 471,
@@ -16778,7 +17007,8 @@
                 "date": "29-05-2019",
                 "timestamp": 1559144218,
                 "hash": "c98fffd659ae4206c5de6c91ee58ac7b4e4a9618"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 10,
@@ -16850,7 +17080,8 @@
                 "date": "20-10-2017",
                 "timestamp": 1508486452,
                 "hash": "408f26ae9ce6f6e3ab33a873f37d0cb32912355e"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 30,
@@ -16917,7 +17148,8 @@
                 "date": "01-11-2017",
                 "timestamp": 1509534194,
                 "hash": "1c86005b6a2f0cd924a420bb68b5544d41aa3bdb"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 111,
@@ -16984,7 +17216,8 @@
                 "date": "02-04-2019",
                 "timestamp": 1554200826,
                 "hash": "b753a0728c1a19a6405cd2f888df8469e615eb0d"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 188,
@@ -17041,7 +17274,8 @@
                 "date": "09-08-2019",
                 "timestamp": 1565359888,
                 "hash": "01c338b6d560ba97d711abb40ba3253e9003ee83"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 3214,
@@ -17103,7 +17337,8 @@
                 "date": "21-04-2018",
                 "timestamp": 1524302656,
                 "hash": "716e623af246fc99f8cceb27800a9da0da66c48f"
-            }
+            },
+            "contributors": 81
         },
         {
             "commits": 1490,
@@ -17175,7 +17410,8 @@
                 "date": "10-03-2019",
                 "timestamp": 1552254890,
                 "hash": "dab7830576e8e720465f1acd32f7ee8b50175dce"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 1431,
@@ -17252,7 +17488,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574765288,
                 "hash": "a4a129d98998b677b90ea51fc796e4e39a3eff18"
-            }
+            },
+            "contributors": 33
         },
         {
             "commits": 175,
@@ -17319,7 +17556,8 @@
                 "date": "28-04-2019",
                 "timestamp": 1556460687,
                 "hash": "101243b3d4fbad5a272dd7c245c9b77676e3e6f5"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 738,
@@ -17396,7 +17634,8 @@
                 "date": "20-08-2019",
                 "timestamp": 1566322934,
                 "hash": "f6cfee31dd60094f23f1a2f29bc10e3acd4c5597"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 87,
@@ -17463,7 +17702,8 @@
                 "date": "26-08-2019",
                 "timestamp": 1566836424,
                 "hash": "58a290eca3ae004b14e69d3f6636cd2deedeb2ed"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 315,
@@ -17535,7 +17775,8 @@
                 "date": "23-05-2019",
                 "timestamp": 1558619181,
                 "hash": "3de28fb79a6e76e2778a6627a8c597cbd06d1b76"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 3986,
@@ -17637,7 +17878,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574706230,
                 "hash": "4dd92eb74d3b85a3f888ecd937657d10c0043c34"
-            }
+            },
+            "contributors": 37
         },
         {
             "commits": 153,
@@ -17709,7 +17951,8 @@
                 "date": "01-03-2019",
                 "timestamp": 1551476797,
                 "hash": "cb0114265607a657cc25e796191f312209978436"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 618,
@@ -17781,7 +18024,8 @@
                 "date": "14-07-2019",
                 "timestamp": 1563137105,
                 "hash": "514d305f1f9403909da7b35bb4a32ef2b3b445ad"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 171,
@@ -17843,7 +18087,8 @@
                 "date": "09-07-2019",
                 "timestamp": 1562675412,
                 "hash": "f162f17eb9e55b3ea0f14bf14b1ebd994b0185a0"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 210,
@@ -17920,7 +18165,8 @@
                 "date": "28-08-2019",
                 "timestamp": 1566999910,
                 "hash": "fb9ea94cf39d3aa87a321f082b238161dd7c2651"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 185,
@@ -17982,7 +18228,8 @@
                 "date": "20-10-2019",
                 "timestamp": 1571594229,
                 "hash": "e138e9618d1301675791f05acf9e451a7c03ddea"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 890,
@@ -18054,7 +18301,8 @@
                 "date": "12-05-2019",
                 "timestamp": 1557650914,
                 "hash": "36c8efe418b5772c71fb21e7fc2d7c11b6ae63ee"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 381,
@@ -18126,7 +18374,8 @@
                 "date": "14-02-2019",
                 "timestamp": 1550182422,
                 "hash": "699818daaad808ee0a85a19a30944a046582aeae"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 13,
@@ -18188,7 +18437,8 @@
                 "date": "31-01-2019",
                 "timestamp": 1548895004,
                 "hash": "daebb805250de644e8739b486e3f8b394da4e7b7"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 21,
@@ -18250,7 +18500,8 @@
                 "date": "12-12-2018",
                 "timestamp": 1544594357,
                 "hash": "c6f998f90bdec64fa4149a36d34cfdd7fd9d10a9"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 83,
@@ -18327,7 +18578,8 @@
                 "date": "16-11-2019",
                 "timestamp": 1573932977,
                 "hash": "a919ffaee39215bc9397ce819ef6c569cb29b033"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 112,
@@ -18399,7 +18651,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574429283,
                 "hash": "b3e8d8fc79d2f7fb764d163939eb3203fbfd872b"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 157,
@@ -18466,7 +18719,8 @@
                 "date": "14-11-2019",
                 "timestamp": 1573753094,
                 "hash": "d27b7904b67160c1c4874a71187a309adadc5e32"
-            }
+            },
+            "contributors": 14
         },
         {
             "commits": 370,
@@ -18538,7 +18792,8 @@
                 "date": "03-10-2019",
                 "timestamp": 1570104062,
                 "hash": "db9e7b3c7bbacdbb9fb2b78236a33a4efd4f5fdf"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 166,
@@ -18605,7 +18860,8 @@
                 "date": "16-08-2019",
                 "timestamp": 1565955497,
                 "hash": "395aff9bf860519879de5d636254ff3ef4ed4b67"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 226,
@@ -18687,7 +18943,8 @@
                 "date": "21-06-2019",
                 "timestamp": 1561143714,
                 "hash": "64f583408d5d1cc3bb0a89c144a8da53b5ac84d5"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 207,
@@ -18769,7 +19026,8 @@
                 "date": "17-10-2019",
                 "timestamp": 1571273016,
                 "hash": "e25f946b7788e2685f32d9d81a0271bd71862758"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 135,
@@ -18841,7 +19099,8 @@
                 "date": "08-09-2019",
                 "timestamp": 1567945172,
                 "hash": "d2cbcdd24ba4bcde08a383d141396056c0cdf83f"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 149,
@@ -18918,7 +19177,8 @@
                 "date": "01-10-2019",
                 "timestamp": 1569944365,
                 "hash": "8a0fbbfa06efb117e61996b5fa440c8b94f793eb"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 1324,
@@ -19000,7 +19260,8 @@
                 "date": "27-10-2019",
                 "timestamp": 1572183897,
                 "hash": "00ce576be642dc913e3d8dfb947e2d7a3b686535"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 2004,
@@ -19077,7 +19338,8 @@
                 "date": "26-09-2019",
                 "timestamp": 1569528706,
                 "hash": "4d8b85bc2445c614095f6c29b0ffaf0cc5b648ec"
-            }
+            },
+            "contributors": 155
         },
         {
             "commits": 810,
@@ -19169,7 +19431,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574564341,
                 "hash": "6dad19ed6ec7015b7322a0c9fb57510f958f0048"
-            }
+            },
+            "contributors": 12
         },
         {
             "commits": 288,
@@ -19246,7 +19509,8 @@
                 "date": "17-11-2019",
                 "timestamp": 1574022525,
                 "hash": "455397da122675e7bc53a49449271b858e6bbd7c"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 361,
@@ -19323,7 +19587,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574420184,
                 "hash": "0547eee3d172730c52d16f470babe80d7315fdd5"
-            }
+            },
+            "contributors": 16
         },
         {
             "commits": 5,
@@ -19385,7 +19650,8 @@
                 "date": "05-01-2019",
                 "timestamp": 1546696962,
                 "hash": "eca960f7feef090f5bbaf4fec201bceff6d7acab"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 135,
@@ -19447,7 +19713,8 @@
                 "date": "07-02-2019",
                 "timestamp": 1549522549,
                 "hash": "56e2473cd4d1c0aaab7571097df6b573dd793785"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 421,
@@ -19539,7 +19806,8 @@
                 "date": "22-10-2019",
                 "timestamp": 1571707694,
                 "hash": "427eaff76499c7c8d6584974413a375af6904538"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 658,
@@ -19611,7 +19879,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574702123,
                 "hash": "0fc293f47ab3031cb6f255d59d0634338a44f3e0"
-            }
+            },
+            "contributors": 17
         },
         {
             "commits": 20,
@@ -19683,7 +19952,8 @@
                 "date": "16-03-2019",
                 "timestamp": 1552755157,
                 "hash": "07c4f2d3ff99dfcced8dea3f8eea38249968b45d"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 17,
@@ -19765,7 +20035,8 @@
                 "date": "03-07-2019",
                 "timestamp": 1562140929,
                 "hash": "8da7d5c988c1dd52df36d4e81055f3d2f4844742"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 3371,
@@ -19862,7 +20133,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574686556,
                 "hash": "6808046582c96d9bcde0134817a36869644fe350"
-            }
+            },
+            "contributors": 118
         },
         {
             "commits": 21,
@@ -19924,7 +20196,8 @@
                 "date": "24-03-2019",
                 "timestamp": 1553436928,
                 "hash": "b1cb7930cbb0ef494d80e055692e24a53232ce50"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 297,
@@ -20001,7 +20274,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574595985,
                 "hash": "5fa34437791f6574d5635aea4a8cbd0104c8707a"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 133,
@@ -20108,7 +20382,8 @@
                 "date": "25-05-2019",
                 "timestamp": 1558755009,
                 "hash": "fa48daf8dc080fd03eb9311c0342b81b41f345e8"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 13,
@@ -20170,7 +20445,8 @@
                 "date": "28-09-2019",
                 "timestamp": 1569689962,
                 "hash": "72208138fddbb792140e635dd95ce5622442dbbe"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 17,
@@ -20232,7 +20508,8 @@
                 "date": "09-10-2019",
                 "timestamp": 1570618205,
                 "hash": "48c7bb8fd40b8c5d99b074a1dbdb93affbb6db70"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 1244,
@@ -20309,7 +20586,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574341066,
                 "hash": "3f712ac7bfee2a7142922a82c019ca60a404b2f0"
-            }
+            },
+            "contributors": 175
         },
         {
             "commits": 290,
@@ -20376,7 +20654,8 @@
                 "date": "22-02-2019",
                 "timestamp": 1550849952,
                 "hash": "bd6b7d7cfa8c10ec90310b599a127dc880acea86"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 625,
@@ -20458,7 +20737,8 @@
                 "date": "08-06-2019",
                 "timestamp": 1559961738,
                 "hash": "c8d772276947bbb4d5a631b0fadc33a38dd72a84"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 108,
@@ -20525,7 +20805,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574422499,
                 "hash": "1a1e2835071ed93ec56aa02052a109a744c9c257"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 186,
@@ -20602,7 +20883,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574619419,
                 "hash": "86b12db171ef3669bab33edb0ed3ee9679d49ec1"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 27,
@@ -20669,7 +20951,8 @@
                 "date": "30-08-2019",
                 "timestamp": 1567185097,
                 "hash": "b87d7f0622bfd20cd48715a069e86130bce37088"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 50,
@@ -20736,7 +21019,8 @@
                 "date": "31-10-2019",
                 "timestamp": 1572499197,
                 "hash": "711310e2ed86a388dc2a67c7947f6407eb86557b"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 31,
@@ -20803,7 +21087,8 @@
                 "date": "21-02-2019",
                 "timestamp": 1550754705,
                 "hash": "7d79064c35fe9b7a467374d6a40ddcaa73aa4997"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 135,
@@ -20870,7 +21155,8 @@
                 "date": "14-11-2019",
                 "timestamp": 1573769509,
                 "hash": "d4860b2a32731b32e545936a0cce44bd616d3ed6"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 114,
@@ -20922,7 +21208,8 @@
                 "date": "27-09-2019",
                 "timestamp": 1569614807,
                 "hash": "5945c181df03cff9a8add5900572bf1599e38794"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 596,
@@ -21014,7 +21301,8 @@
                 "date": "25-04-2019",
                 "timestamp": 1556194498,
                 "hash": "4552b111043665f5501bcfb0173c0e09bf19447a"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 33,
@@ -21081,7 +21369,8 @@
                 "date": "05-10-2019",
                 "timestamp": 1570282266,
                 "hash": "ad4d611c84499a8debcd7f66d9c397c80f613a71"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 126,
@@ -21143,7 +21432,8 @@
                 "date": "30-03-2019",
                 "timestamp": 1553953156,
                 "hash": "75f0ff0ad29a222794cfff34c3352f89114721d0"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 67,
@@ -21220,7 +21510,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574787613,
                 "hash": "4d771e5ee834ed1f2bd6ca362ab3a09880d89f59"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 496,
@@ -21302,7 +21593,8 @@
                 "date": "02-07-2019",
                 "timestamp": 1562076678,
                 "hash": "5aeb44f2701f88176d2dfd8561a278d4e8f0f775"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 180,
@@ -21369,7 +21661,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574364606,
                 "hash": "a02d0814cdc7757ed16d222205540586b8531d11"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 39,
@@ -21441,7 +21734,8 @@
                 "date": "23-06-2019",
                 "timestamp": 1561300954,
                 "hash": "647cb5c28438f0f533d5b7ebb77f71d5445b0a81"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 192,
@@ -21523,7 +21817,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574353339,
                 "hash": "16ae4a24f64d0de6831c363ba4e742dc374d06d9"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 294,
@@ -21585,7 +21880,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574381925,
                 "hash": "30ccc702bc9341bdf2b6b06d0eea88a0dbca8895"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 181,
@@ -21662,7 +21958,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574598813,
                 "hash": "60cf4ddfcf4937bec602047d569ef181a06c2fa5"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 147,
@@ -21729,7 +22026,8 @@
                 "date": "27-10-2019",
                 "timestamp": 1572167946,
                 "hash": "ac449c7a85ffceda0d07370f4309db6052f3bc18"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 4072,
@@ -21836,7 +22134,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574747761,
                 "hash": "9c569ea6925dee7ba7acf9a1db757a18edccec9d"
-            }
+            },
+            "contributors": 76
         },
         {
             "commits": 506,
@@ -21898,7 +22197,8 @@
                 "date": "04-08-2018",
                 "timestamp": 1533383256,
                 "hash": "e0d044cf40f8c5a56f95341bc2a64e3492c3b0cc"
-            }
+            },
+            "contributors": 20
         },
         {
             "commits": 1426,
@@ -21960,7 +22260,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574061742,
                 "hash": "4bf148eb984f1f2170d5f4bc29f0ed369c3a6489"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 1000,
@@ -22042,7 +22343,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574669100,
                 "hash": "3b259afa49856c9d014cc0024549a26130872dd4"
-            }
+            },
+            "contributors": 47
         },
         {
             "commits": 387,
@@ -22124,7 +22426,8 @@
                 "date": "10-11-2019",
                 "timestamp": 1573381095,
                 "hash": "1d5fbb83e427f52dfff25126f5606699bb97c164"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 69,
@@ -22191,7 +22494,8 @@
                 "date": "14-10-2019",
                 "timestamp": 1571062426,
                 "hash": "a08b4e30b0c3a01e1bca5b405738966c6064bfbd"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 215,
@@ -22263,7 +22567,8 @@
                 "date": "25-08-2019",
                 "timestamp": 1566767936,
                 "hash": "6cff6f1751840acf2ef1edf8bf6c36bb9a11ce66"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 67,
@@ -22325,7 +22630,8 @@
                 "date": "02-07-2019",
                 "timestamp": 1562047481,
                 "hash": "d665cf8acb97ae23eabcc85455f3e119745067f4"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 324,
@@ -22402,7 +22708,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574288766,
                 "hash": "963ed02231e6fba29065238e30a5f379c491ffa6"
-            }
+            },
+            "contributors": 28
         },
         {
             "commits": 59,
@@ -22464,7 +22771,8 @@
                 "date": "16-10-2019",
                 "timestamp": 1571232115,
                 "hash": "6e670a101aeede85974192aae1bbfbcadf85da65"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 458,
@@ -22546,7 +22854,8 @@
                 "date": "17-10-2019",
                 "timestamp": 1571283099,
                 "hash": "8b218d23b83ead4430274f72047d03e4ed63f432"
-            }
+            },
+            "contributors": 14
         },
         {
             "commits": 23,
@@ -22608,7 +22917,8 @@
                 "date": "24-06-2019",
                 "timestamp": 1561380051,
                 "hash": "4bd3d4eb5feb1c7c282fcaec94bce75a0deec95e"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 306,
@@ -22670,7 +22980,8 @@
                 "date": "24-09-2019",
                 "timestamp": 1569360339,
                 "hash": "69ebfc1e1c39f0a7b90d16d7f9554c40096fb599"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 81,
@@ -22727,7 +23038,8 @@
                 "date": "09-07-2019",
                 "timestamp": 1562660114,
                 "hash": "dc21d2a1440aa07cc7a93f544fbd304f98701a46"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 626,
@@ -22794,7 +23106,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328262,
                 "hash": "3344a71dbb909917cf3abffaaa4d00528a0f33d6"
-            }
+            },
+            "contributors": 45
         },
         {
             "commits": 320,
@@ -22866,7 +23179,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574613143,
                 "hash": "825062ba78473afafc7ddd4f7a02ab05c4763327"
-            }
+            },
+            "contributors": 17
         },
         {
             "commits": 175,
@@ -22928,7 +23242,8 @@
                 "date": "12-05-2019",
                 "timestamp": 1557668215,
                 "hash": "becb581ebce96343065c742042581e0c84fb4a69"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 1839,
@@ -22990,7 +23305,8 @@
                 "date": "22-11-2019",
                 "timestamp": 1574418726,
                 "hash": "88dba6b331b31f3f6099dfcc4096ba85cff6e6ca"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 239,
@@ -23057,7 +23373,8 @@
                 "date": "10-11-2019",
                 "timestamp": 1573398251,
                 "hash": "0329c877a17bd41506a15e80a4ee1a1d61e555c8"
-            }
+            },
+            "contributors": 37
         },
         {
             "commits": 279,
@@ -23124,7 +23441,8 @@
                 "date": "09-06-2019",
                 "timestamp": 1560044509,
                 "hash": "b0e043b40fb464603685c910347e3809d58ee28e"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 763,
@@ -23201,7 +23519,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574359694,
                 "hash": "dafc7e6d946b48f8f47e1b3f3dd7b72e3fa22e32"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 2665,
@@ -23273,7 +23592,8 @@
                 "date": "16-05-2019",
                 "timestamp": 1557966133,
                 "hash": "dcd5dc827b110e48c38b53d71b4be9cbce60aead"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 26,
@@ -23335,7 +23655,8 @@
                 "date": "08-10-2017",
                 "timestamp": 1507488798,
                 "hash": "df51acea087d5e5cec8cbf99d2972a580c15457f"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 47,
@@ -23402,7 +23723,8 @@
                 "date": "02-03-2019",
                 "timestamp": 1551495809,
                 "hash": "9e8d14ca9b1021a454b2c477d8b7bad1b49c8df7"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 117,
@@ -23494,7 +23816,8 @@
                 "date": "09-02-2019",
                 "timestamp": 1549692079,
                 "hash": "045e42bfb97ae6749c739de974c8face7e3314bc"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 14,
@@ -23556,7 +23879,8 @@
                 "date": "07-11-2017",
                 "timestamp": 1510035625,
                 "hash": "5d043d2c1592113a53571ab41224972283abc462"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 169,
@@ -23628,7 +23952,8 @@
                 "date": "31-10-2019",
                 "timestamp": 1572529156,
                 "hash": "78a096d90d2c378adac76d3c7f0e8312ad8c880b"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 656,
@@ -23700,7 +24025,8 @@
                 "date": "14-11-2019",
                 "timestamp": 1573696758,
                 "hash": "fd470a6165d126e22224b5aaab3454dd12aa3e2b"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 1244,
@@ -23767,7 +24093,8 @@
                 "date": "05-01-2019",
                 "timestamp": 1546707370,
                 "hash": "d92dc42b96cc9a287fc606606ba7b072a662c75c"
-            }
+            },
+            "contributors": 12
         },
         {
             "commits": 105,
@@ -23834,7 +24161,8 @@
                 "date": "11-07-2019",
                 "timestamp": 1562882551,
                 "hash": "dc35789e819c9343e4be08b68b342f21b8209a2b"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 232,
@@ -23896,7 +24224,8 @@
                 "date": "03-10-2019",
                 "timestamp": 1570094482,
                 "hash": "49ecf44783f9bf5463fc44a4793aecffbb99e6d1"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 316,
@@ -23963,7 +24292,8 @@
                 "date": "21-04-2019",
                 "timestamp": 1555858939,
                 "hash": "022dc8a481946ede1a9e848164d63e4b6cc1e647"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 139,
@@ -24030,7 +24360,8 @@
                 "date": "21-02-2019",
                 "timestamp": 1550759768,
                 "hash": "abac3fdff00264cb8aa91a0b509cba184f681a52"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 340,
@@ -24097,7 +24428,8 @@
                 "date": "15-03-2019",
                 "timestamp": 1552634771,
                 "hash": "e853c0428aa4791188c6d6b338538398c780f5d6"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 337,
@@ -24169,7 +24501,8 @@
                 "date": "15-10-2019",
                 "timestamp": 1571102074,
                 "hash": "bc6a960c0a40a71ab09b93ad2cf95bc674dffbd1"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 893,
@@ -24251,7 +24584,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574501684,
                 "hash": "41a0b1d6284298c167133b6426f22380498079f1"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 490,
@@ -24318,7 +24652,8 @@
                 "date": "07-11-2019",
                 "timestamp": 1573095565,
                 "hash": "97b56576d04c6e54fecfdc0a6abbe7859f9b0e5e"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 11972,
@@ -24410,7 +24745,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574330580,
                 "hash": "2eba2813d5ad5de35169c7b707a7de42064cc62f"
-            }
+            },
+            "contributors": 48
         },
         {
             "commits": 751,
@@ -24487,7 +24823,8 @@
                 "date": "17-11-2019",
                 "timestamp": 1573992502,
                 "hash": "fc5bc8255b6d95ac29c0072fb15bc222e20fa7aa"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 345,
@@ -24564,7 +24901,8 @@
                 "date": "02-06-2019",
                 "timestamp": 1559497313,
                 "hash": "57e7fb4e2a4ee6a9bbc533f1e3bbbfdc329726b7"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 258,
@@ -24641,7 +24979,8 @@
                 "date": "17-12-2018",
                 "timestamp": 1545007144,
                 "hash": "128201cb362be9f76e26530202c1394d73bedf90"
-            }
+            },
+            "contributors": 10
         },
         {
             "commits": 489,
@@ -24713,7 +25052,8 @@
                 "date": "16-03-2019",
                 "timestamp": 1552772016,
                 "hash": "ae63d70598cfcf9ed414f767eb4e056fee0ce7e6"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 615,
@@ -24785,7 +25125,8 @@
                 "date": "25-04-2019",
                 "timestamp": 1556225450,
                 "hash": "5d6c1b3302f07f10578adfa72af93b665d4f79bf"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 337,
@@ -24862,7 +25203,8 @@
                 "date": "03-09-2019",
                 "timestamp": 1567497343,
                 "hash": "5582d395be3f992bc71d17d8645f2b13097918a0"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 63,
@@ -24944,7 +25286,8 @@
                 "date": "08-05-2019",
                 "timestamp": 1557292323,
                 "hash": "034257ed7d48d4f4ad1cf26cbdd06de0f8941729"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 128,
@@ -25011,7 +25354,8 @@
                 "date": "07-11-2018",
                 "timestamp": 1541550545,
                 "hash": "b4c938e458b11382283ef4d6b9d81b1555c1edac"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 581,
@@ -25078,7 +25422,8 @@
                 "date": "31-10-2019",
                 "timestamp": 1572510535,
                 "hash": "62f6a23bc76cb6a45f0e2e8985a8a58359d9bf36"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 952,
@@ -25145,7 +25490,8 @@
                 "date": "05-11-2019",
                 "timestamp": 1572975181,
                 "hash": "c9b73666b5978c10fba8e66a38b96cdd6360e770"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 182,
@@ -25212,7 +25558,8 @@
                 "date": "29-10-2018",
                 "timestamp": 1540829200,
                 "hash": "4459dd368c4c6e78d6fdc0e4e44ad7341ceb8bcc"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 100,
@@ -25279,7 +25626,8 @@
                 "date": "24-09-2018",
                 "timestamp": 1537790366,
                 "hash": "70796b1841fc6f6a334788cb439223644f083b84"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 437,
@@ -25351,7 +25699,8 @@
                 "date": "09-05-2019",
                 "timestamp": 1557386842,
                 "hash": "73252d8d88b1d0963a49f8357f28936a4b604885"
-            }
+            },
+            "contributors": 6
         },
         {
             "commits": 248,
@@ -25418,7 +25767,8 @@
                 "date": "03-11-2019",
                 "timestamp": 1572789083,
                 "hash": "8c1de684e3d129f0d1d0a26b4ad0eec70fab0d2e"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 412,
@@ -25500,7 +25850,8 @@
                 "date": "27-06-2019",
                 "timestamp": 1561633811,
                 "hash": "7c4c0c864ff1e0f01cacd505880b682f2a40a118"
-            }
+            },
+            "contributors": 2
         },
         {
             "commits": 474,
@@ -25572,7 +25923,8 @@
                 "date": "07-11-2019",
                 "timestamp": 1573157067,
                 "hash": "9643ead64b9ed6b727717847205e4fa30bcc9129"
-            }
+            },
+            "contributors": 17
         },
         {
             "commits": 156,
@@ -25639,7 +25991,8 @@
                 "date": "12-10-2019",
                 "timestamp": 1570894103,
                 "hash": "f1031aa27a446c3a7cc87f4d9d99ad905f89ada0"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 439,
@@ -25716,7 +26069,8 @@
                 "date": "10-08-2019",
                 "timestamp": 1565416314,
                 "hash": "5a65a34a731395326b8ec84e7c53eb8e306aa11c"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 708,
@@ -25773,7 +26127,8 @@
                 "date": "06-10-2019",
                 "timestamp": 1570346968,
                 "hash": "c852a359c9674fa7fe8712923938a7ef70766ad5"
-            }
+            },
+            "contributors": 1
         },
         {
             "commits": 565,
@@ -25850,7 +26205,8 @@
                 "date": "23-11-2019",
                 "timestamp": 1574528954,
                 "hash": "4d993d840802ce00e82603129fab0ea7a24dea76"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 265,
@@ -25917,7 +26273,8 @@
                 "date": "18-11-2019",
                 "timestamp": 1574105976,
                 "hash": "4c2442bd8532f9913b06107c6d946f6b4975784d"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 712,
@@ -25989,7 +26346,8 @@
                 "date": "20-09-2019",
                 "timestamp": 1568961000,
                 "hash": "5efb9f6b59193737649298dab7542cc9749574da"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 943,
@@ -26061,7 +26419,8 @@
                 "date": "07-08-2019",
                 "timestamp": 1565210291,
                 "hash": "ad40dda6701cc4842e94bda4b86ef1b30cfb3467"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 46,
@@ -26128,7 +26487,8 @@
                 "date": "15-08-2019",
                 "timestamp": 1565901330,
                 "hash": "23d2c77a9ae4d72ef2354a35eefde28219cb3c56"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 421,
@@ -26200,7 +26560,8 @@
                 "date": "07-10-2019",
                 "timestamp": 1570413031,
                 "hash": "4230c068a3514fdfd29b99c4565771a245892c3c"
-            }
+            },
+            "contributors": 15
         },
         {
             "commits": 500,
@@ -26277,7 +26638,8 @@
                 "date": "03-11-2019",
                 "timestamp": 1572797503,
                 "hash": "80e9b824656de8c99370ae01becfe0cb6f2cd5a4"
-            }
+            },
+            "contributors": 18
         },
         {
             "commits": 1292,
@@ -26344,7 +26706,8 @@
                 "date": "20-10-2019",
                 "timestamp": 1571593040,
                 "hash": "5dcc23012ec8911b8c94e0b0d8d5f2e71739e4ed"
-            }
+            },
+            "contributors": 38
         },
         {
             "commits": 987,
@@ -26416,7 +26779,8 @@
                 "date": "09-11-2019",
                 "timestamp": 1573318686,
                 "hash": "0f3010e8a722c19ba129f5835c0f3bb45c3105b1"
-            }
+            },
+            "contributors": 22
         },
         {
             "commits": 285,
@@ -26483,7 +26847,8 @@
                 "date": "28-10-2019",
                 "timestamp": 1572295336,
                 "hash": "76a1f8fe3de3bddf2921c9abd4996f9e6379db59"
-            }
+            },
+            "contributors": 3
         },
         {
             "commits": 1053,
@@ -26560,7 +26925,8 @@
                 "date": "10-11-2019",
                 "timestamp": 1573407597,
                 "hash": "a26241d24b04f1a19460cd15e966c1e731f7fd40"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 691,
@@ -26632,7 +26998,8 @@
                 "date": "23-04-2019",
                 "timestamp": 1556024205,
                 "hash": "1524b18324b56591d6ca50f5230d0d6c3a82e561"
-            }
+            },
+            "contributors": 11
         },
         {
             "commits": 232,
@@ -26699,7 +27066,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574787847,
                 "hash": "ca2f4877770b682a178b351ad0da1277280a97c3"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 503,
@@ -26766,7 +27134,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574765556,
                 "hash": "ded3c19bde4241d062a62532b2d0b2f9cc15540d"
-            }
+            },
+            "contributors": 45
         },
         {
             "commits": 3668,
@@ -26833,7 +27202,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574619737,
                 "hash": "f2f6b91539ff230c96a193eda01e0bb42c692c04"
-            }
+            },
+            "contributors": 107
         },
         {
             "commits": 1063,
@@ -26895,7 +27265,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328295,
                 "hash": "35c6cd4a760008dedf75db6735b1b6174815230c"
-            }
+            },
+            "contributors": 54
         },
         {
             "commits": 419,
@@ -26962,7 +27333,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328324,
                 "hash": "2ccadcbc20a8a75a2ed3c26d7e4b2cf0a3e85621"
-            }
+            },
+            "contributors": 35
         },
         {
             "commits": 5614,
@@ -27029,7 +27401,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574718117,
                 "hash": "1d0f129e85031076cd69607f87908f43b2308b03"
-            }
+            },
+            "contributors": 131
         },
         {
             "commits": 1061,
@@ -27096,7 +27469,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328339,
                 "hash": "817e97cb73bc26b33fb9fbc42ca07e26ed90b509"
-            }
+            },
+            "contributors": 47
         },
         {
             "commits": 1077,
@@ -27158,7 +27532,8 @@
                 "date": "21-11-2019",
                 "timestamp": 1574328173,
                 "hash": "5941ecc138a2e73c645503dbb34feb7605d713c7"
-            }
+            },
+            "contributors": 52
         },
         {
             "commits": 519,
@@ -27215,7 +27590,8 @@
                 "date": "15-11-2019",
                 "timestamp": 1573835540,
                 "hash": "a45e4908ead756f3279732960a783e27023ed8f8"
-            }
+            },
+            "contributors": 5
         },
         {
             "commits": 1384,
@@ -27302,7 +27678,8 @@
                 "date": "31-05-2019",
                 "timestamp": 1559299585,
                 "hash": "3dbca540aaf3653e472e99cb84b831bb007968c7"
-            }
+            },
+            "contributors": 22
         },
         {
             "commits": 4797,
@@ -27384,7 +27761,8 @@
                 "date": "26-11-2019",
                 "timestamp": 1574745262,
                 "hash": "dd76110c8711fe544b8bb05cf498464dbc6e0c91"
-            }
+            },
+            "contributors": 239
         },
         {
             "commits": 168,
@@ -27441,7 +27819,8 @@
                 "date": "19-09-2019",
                 "timestamp": 1568873663,
                 "hash": "fb9f713aa26d3354bb82829d5e93a493bab35ea9"
-            }
+            },
+            "contributors": 9
         },
         {
             "commits": 131,
@@ -27513,7 +27892,8 @@
                 "date": "06-09-2019",
                 "timestamp": 1567777623,
                 "hash": "3b61fe721264965e8205183d00c42a575d2c661f"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 2832,
@@ -27615,7 +27995,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574607742,
                 "hash": "50bf49ca5dac1cc7b4c24f3dfba1f8c99a281418"
-            }
+            },
+            "contributors": 14
         },
         {
             "commits": 204,
@@ -27677,7 +28058,8 @@
                 "date": "01-09-2019",
                 "timestamp": 1567376826,
                 "hash": "9e57cf1433f703765833781b9e35ecbf09cd72f0"
-            }
+            },
+            "contributors": 7
         },
         {
             "commits": 440,
@@ -27749,7 +28131,8 @@
                 "date": "24-11-2019",
                 "timestamp": 1574609017,
                 "hash": "ae8ee13b81dc743a7940f98d3f9f913a0369858f"
-            }
+            },
+            "contributors": 13
         },
         {
             "commits": 74,
@@ -27821,7 +28204,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574640088,
                 "hash": "98f3fa9e31558da9d5280de55c52679504d8536b"
-            }
+            },
+            "contributors": 4
         },
         {
             "commits": 978,
@@ -27898,7 +28282,8 @@
                 "date": "20-11-2019",
                 "timestamp": 1574282643,
                 "hash": "bf9892c0471e4d4c1e7bde4325a514d1a47ca1b4"
-            }
+            },
+            "contributors": 84
         },
         {
             "commits": 3129,
@@ -27975,7 +28360,8 @@
                 "date": "25-11-2019",
                 "timestamp": 1574710849,
                 "hash": "e1b2034eaff091c6d924cab696c6377b39399e8e"
-            }
+            },
+            "contributors": 8
         },
         {
             "commits": 2570,
@@ -28082,7 +28468,8 @@
                 "date": "13-11-2019",
                 "timestamp": 1573657148,
                 "hash": "6c58c74d1c798113e7efbc22b2ee7460472ef61b"
-            }
+            },
+            "contributors": 108
         }
     ]
 }
